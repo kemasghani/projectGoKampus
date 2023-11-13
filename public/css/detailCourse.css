@@ -1,0 +1,28 @@
+.detailCourseCardContainer {
+    row-gap: 60px;
+    column-gap: 30px;
+}
+
+.headContainer {
+    color: #06241B;
+    margin-top: 75px;
+    margin-bottom: 25px;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.filterItem {
+    color: #1F1F39;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    padding: 10px 13px 10px;
+    border: 1px solid #252570;
+    border-radius: 24px;
+}
+
+.filterItem.active {
+    background-color: #252570;
+    color: white;
+}

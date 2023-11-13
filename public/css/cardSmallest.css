@@ -1,0 +1,147 @@
+#cardSmallest {
+    height: 100%;
+    width: 300px;
+}
+
+img.imageCardContainer {
+    height: 146px;
+}
+
+#cardSmallest .cardContent {
+    padding: 20px 26px;
+}
+
+#cardSmallest .topCardContent {
+    padding-top: 20px;
+    padding-bottom: 32px;
+}
+
+#cardSmallest .total {
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+#cardSmallest .tittle {
+    padding-top: 20px;
+    height: 45px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+#cardSmallest .profileCard {
+    width: 31px;
+    height: 31px;
+    background-color: #beb9b9;
+    border-radius: 50%;
+}
+
+#cardSmallest .profileNameCard {
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+#cardSmallest .role {
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#cardSmallest .lesson {
+    padding: 5px 11px;
+    background-color: #afafaf;
+    border-radius: 12px;
+    color: white;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+@media only screen and (max-width: 726px) {
+    #cardSmallest .containerContentDashboard {
+        padding: 42px 35px;
+    }
+
+    #cardSmallest {
+        width: 230px;
+    }
+}
+
+@media only screen and (max-width: 585px) {
+    #cardSmallest {
+        width: 190px;
+    }
+
+    #cardSmallest .ratingImage {
+        width: 36px;
+        height: 5px;
+    }
+
+    #cardSmallest .playImage {
+        width: 15px;
+    }
+
+    img.imageCardContainer {
+        height: 77px;
+    }
+
+    #cardSmallest .cardContent {
+        padding: 9px 10px;
+    }
+
+    #cardSmallest .topCardContent {
+        padding-top: 9px;
+        padding-bottom: 15px;
+    }
+
+    #cardSmallest .total {
+        font-size: 7px;
+    }
+
+    #cardSmallest .tittle {
+        padding-top: 16px;
+        height: 20px;
+        font-size: 10px;
+    }
+
+    #cardSmallest .profileCard {
+        width: 12px;
+        height: 12px;
+    }
+
+    #cardSmallest .profileNameCard {
+        font-size: 5px;
+    }
+
+    #cardSmallest .role {
+        font-size: 4px;
+    }
+
+    #cardSmallest .lesson {
+        padding: 2px 4px;
+        color: white;
+        font-size: 5px;
+    }
+}
+
+@media only screen and (max-width: 485px) {
+    #cardSmallest {
+        width: 140px;
+    }
+
+    #cardSmallest .tittle {
+        padding-top: 10px;
+        height: 45px;
+        font-size: 9px;
+        font-style: normal;
+        font-weight: 700;
+    }
+
+    #cardSmallest .tittle {
+        height: 13px;
+        font-size: 10px;
+    }
+}
+

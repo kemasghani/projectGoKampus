@@ -1,0 +1,262 @@
+// Fonts
+@import url("https://fonts.bunny.net/css?family=Nunito");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "bootstrap/scss/bootstrap";
+
+// font outfit
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+// font poppins
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body {
+    font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
+}
+body .navbar {
+    font-family: "Outfit", sans-serif;
+}
+
+.playButton {
+    width: 76px;
+    height: 76px;
+}
+.containerDashboard {
+    margin: 28px 43px;
+    padding: 94px 104px;
+    border-radius: 50px;
+    background-color: #d9d9d9;
+}
+.tittleContainer {
+    margin-bottom: 10px;
+}
+.containerDashboard h1 {
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 700;
+}
+.containerDashboard p {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+.containerContentDashboard {
+    padding: 42px 105px;
+    display: flex;
+    flex-direction: column;
+    gap: 120px;
+}
+.imageCardContainer {
+    object-fit: cover;
+}
+.carousel-indicators {
+    margin-top: 20px;
+    position: static;
+    transform: translateX(40px);
+}
+.carousel-indicators li {
+    font-size: 30px;
+    border-radius: 50%;
+    background-color: grey;
+}
+.carousel-indicators li.active {
+    color: #2144ff;
+}
+.card {
+    border-radius: 13px;
+    filter: drop-shadow(
+        0px 2.508171796798706px 21.946502685546875px rgba(121, 102, 234, 0.08)
+    );
+    overflow: hidden;
+    border: none;
+}
+.highlightSecond {
+    width: 650px;
+}
+.highlightSliderContainer {
+    display: none;
+    padding: 0px 10px;
+    filter: drop-shadow(
+        0px 2.508171796798706px 21.946502685546875px rgba(121, 102, 234, 0.08)
+    );
+}
+.highlightSliderContainer .carousel-control-prev,
+.highlightSliderContainer .carousel-control-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.highlightSliderContainer .carousel-control-prev {
+    left: -25px;
+}
+
+.highlightSliderContainer .carousel-control-next {
+    right: -25px;
+}
+
+.highlightContainer {
+    display: flex;
+}
+.carouselItemContainer {
+    row-gap: 20px;
+    column-gap: 36px;
+}
+.carouselMobileScreen {
+    display: none;
+}
+.carouselItemContainer4 {
+    column-gap: 10px;
+}
+.popularCourseContainer {
+    display: none;
+}
+.specialCourse {
+    margin-top: 100px;
+}
+.prevArrow {
+    transform: translateX(-10px);
+}
+.joinTextContainer {
+    padding: 42px 90px;
+    color: white;
+    border-radius: 44px;
+    background: linear-gradient(180deg, #20369c 0%, #1b275b 100%);
+}
+.joinTextContainer .left {
+    width: 40%;
+}
+.joinTextContainer .left {
+    width: 60%;
+}
+.joinTextContainer .textWhiteBig {
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+}
+.joinTextContainer .textYellow {
+    color: #fab437;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+}
+.joinTextContainer .textWhiteSmall {
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+}
+.joinTextContainer .textBlack {
+    border-radius: 23px;
+    background-color: #fab437;
+    border: none;
+    padding: 12px;
+    color: #232f65;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+}
+@media only screen and (max-width: 1400px) {
+    .joinTextContainer {
+        padding: 42px 90px;
+    }
+    .joinTextContainer .left {
+        width: 40%;
+    }
+    .joinTextContainer .left {
+        width: 60%;
+    }
+    .joinTextContainer .textWhiteBig {
+        font-size: 36px;
+    }
+    .joinTextContainer .textYellow {
+        font-size: 36px;
+    }
+    .joinTextContainer .textWhiteSmall {
+        font-size: 28px;
+    }
+    .joinTextContainer .textBlack {
+        padding: 12px;
+        font-size: 24px;
+    }
+}
+@media only screen and (max-width: 1150px) {
+    .carouselMobileScreen {
+        display: block;
+    }
+    .carouselDeksScreen {
+        display: none;
+    }
+}
+@media only screen and (min-width: 1000px) {
+    .carousel-control-prev {
+        transform: translateX(-50%);
+    }
+    .carousel-control-next {
+        transform: translateX(50%);
+    }
+}
+@media only screen and (max-width: 1000px) {
+    .containerContentDashboard {
+        padding: 42px 20px;
+    }
+}
+@media only screen and (max-width: 992px) {
+    #contentCarousel2,
+    #contentCarousel3,
+    #contentCarousel4 {
+        display: none;
+    }
+    .popularCourseContainer {
+        display: block;
+    }
+    .specialCourse {
+        margin-top: 60px;
+    }
+}
+@media only screen and (max-width: 850px) {
+    .containerDashboard {
+        padding: 50px 25px;
+    }
+    .containerDashboard h1 {
+        font-size: 36px;
+    }
+    .containerDashboard p {
+        font-size: 12px;
+        margin-top: 30px;
+        margin-bottom: 100px;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .clockImage,
+    .courseContainerDescription,
+    .exploreText,
+    .komputer {
+        display: none;
+    }
+    .containerDashboard {
+        margin: 42px 20px;
+    }
+}
+@media only screen and (max-width: 780px) {
+    .highlightContainer {
+        display: none;
+    }
+    .highlightSliderContainer {
+        display: block;
+    }
+    .tittleContainer .tittle {
+        width: 70%;
+    }
+    .tittleContainer .tittle h3 {
+        font-size: 18px;
+    }
+}
+@media only screen and (max-width: 585px) {
+    .carouselItemContainer {
+        row-gap: 20px;
+        column-gap: 10px;
+    }
+}
