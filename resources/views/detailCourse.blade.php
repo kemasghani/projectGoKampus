@@ -15,7 +15,7 @@
     @section('content')
         <div class="container">
             <div>
-                <div class="d-flex justify-content-between align-items-center headContainer">
+                <div class="d-flex justify-content-between headContainer">
                     <h1>Kursus Populer</h1>
                     <div class="filterContainer d-flex gap-3">
                         <div class="filterItem active">Popular</div>

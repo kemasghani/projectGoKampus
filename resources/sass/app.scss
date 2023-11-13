@@ -15,6 +15,7 @@
 body {
     font-family: "Poppins", sans-serif;
     overflow-x: hidden;
+    background-color: white;
 }
 body .navbar {
     font-family: "Outfit", sans-serif;
@@ -120,17 +121,21 @@ body .navbar {
 .prevArrow {
     transform: translateX(-10px);
 }
+.joinContainer {
+    column-gap: 40px;
+}
 .joinTextContainer {
     padding: 42px 90px;
+
     color: white;
     border-radius: 44px;
     background: linear-gradient(180deg, #20369c 0%, #1b275b 100%);
 }
 .joinTextContainer .left {
-    width: 40%;
-}
-.joinTextContainer .left {
     width: 60%;
+}
+.joinTextContainer .right {
+    row-gap: 35px;
 }
 .joinTextContainer .textWhiteBig {
     font-size: 36px;
@@ -163,23 +168,20 @@ body .navbar {
         padding: 42px 90px;
     }
     .joinTextContainer .left {
-        width: 40%;
-    }
-    .joinTextContainer .left {
         width: 60%;
     }
     .joinTextContainer .textWhiteBig {
-        font-size: 36px;
+        font-size: 26px;
     }
     .joinTextContainer .textYellow {
-        font-size: 36px;
+        font-size: 26px;
     }
     .joinTextContainer .textWhiteSmall {
-        font-size: 28px;
+        font-size: 20px;
     }
     .joinTextContainer .textBlack {
         padding: 12px;
-        font-size: 24px;
+        font-size: 19px;
     }
 }
 @media only screen and (max-width: 1150px) {
@@ -204,6 +206,28 @@ body .navbar {
     }
 }
 @media only screen and (max-width: 992px) {
+    .joinTextContainer {
+        padding: 22px 40px;
+    }
+    .joinContainer img {
+        width: 100%;
+    }
+    .joinTextContainer .left {
+        width: 60%;
+    }
+    .joinTextContainer .textWhiteBig {
+        font-size: 16px;
+    }
+    .joinTextContainer .textYellow {
+        font-size: 16px;
+    }
+    .joinTextContainer .textWhiteSmall {
+        font-size: 16px;
+    }
+    .joinTextContainer .textBlack {
+        padding: 12px;
+        font-size: 12px;
+    }
     #contentCarousel2,
     #contentCarousel3,
     #contentCarousel4 {
@@ -258,5 +282,33 @@ body .navbar {
     .carouselItemContainer {
         row-gap: 20px;
         column-gap: 10px;
+    }
+    .joinContainer {
+        column-gap: 10px;
+    }
+    .joinTextContainer {
+        padding: 22px 40px;
+    }
+    .joinContainer img {
+        width: 100px;
+    }
+    .joinTextContainer .right {
+        row-gap: 15px;
+    }
+    .joinTextContainer .left {
+        width: 60%;
+    }
+    .joinTextContainer .textWhiteBig {
+        font-size: 10px;
+    }
+    .joinTextContainer .textYellow {
+        font-size: 10px;
+    }
+    .joinTextContainer .textWhiteSmall {
+        font-size: 8px;
+    }
+    .joinTextContainer .textBlack {
+        padding: 5px;
+        font-size: 8px;
     }
 }

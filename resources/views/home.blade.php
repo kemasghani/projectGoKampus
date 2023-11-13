@@ -506,7 +506,7 @@
                 </div>
             </div>
         </div>
-        <div class="joinContainer d-flex gap-5">
+        <div class="joinContainer d-flex align-items-center">
             <div>
                 <img src="{{ asset('images/MLogo.png') }}" alt="MLogo">
             </div>
@@ -515,7 +515,7 @@
                     <span class="textWhiteBig">Jadilah</span>
                     <span class="textYellow">Mitra Kami</span>
                 </div>
-                <div class="d-flex flex-column right gap-5">
+                <div class="d-flex flex-column right">
                     <span class="textWhiteSmall">Berpartner dengan maxy dan dapatkan talent terbaik untuk perusahaan
                         anda</span>
                     <div>

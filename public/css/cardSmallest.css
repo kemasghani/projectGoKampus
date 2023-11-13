@@ -128,7 +128,7 @@ img.imageCardContainer {
 
 @media only screen and (max-width: 485px) {
     #cardSmallest {
-        width: 140px;
+        width: 160px;
     }
 
     #cardSmallest .tittle {
