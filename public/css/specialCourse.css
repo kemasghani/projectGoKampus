@@ -16,7 +16,7 @@
     font-weight: 600;
 }
 
-.infoCourseItem p {
+.infoCourseItem span {
     color: #232F65;
     font-size: 20px;
     font-weight: 700;
@@ -34,6 +34,7 @@
 
 .specialCourseInfo {
     column-gap: 170px;
+    row-gap: 15px;
     width: 100%;
 }
 
@@ -46,6 +47,8 @@
 }
 
 .institutionContainer {
+    column-gap: 13px;
+    row-gap: 12px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -71,11 +74,35 @@
     font-weight: 600;
 }
 
+.circleBorder {
+    z-index: -2;
+    transform: translateX(-80px);
+    position: absolute;
+    width: 200px;
+    height: 200px;
+}
+
+.circle {
+    z-index: -2;
+    transform: translate(1100px, -250px);
+    position: absolute;
+    width: 270px;
+    height: 270px;
+}
+
+.circleBorder img {
+    width: 100%;
+}
+
 .previewMateriContainer {
+    margin-top: 50px;
     column-gap: 30px;
+    row-gap: 30px;
 }
 
 .infoPreviewMateri {
+    padding-bottom: 17px;
+    border-bottom: 2px solid #7C7C7C;
     color: #7C7C7C;
     font-size: 16px;
     font-weight: 400;
@@ -136,7 +163,14 @@
     color: #5C5A5A;
     font-size: 24px;
     font-weight: 700;
-    text-align: center;
+}
+
+.announce img {
+    width: 100%;
+}
+
+.announce {
+    width: 62px;
 }
 
 .detailInfoSpecialCourse h1 {
@@ -145,7 +179,7 @@
     font-weight: 700;
 }
 
-.detailInfoSpecialCourse p {
+.detailInfoSpecialCourse p, .detailInfoSpecialCourse span {
     color: #515151;
     font-size: 20px;
     font-weight: 400;
@@ -156,12 +190,32 @@
 .cardCourseContainer img {
     width: 100%;
     object-fit: cover;
+
 }
 
 .contentCard {
     z-index: 2;
     padding: 19px 10px 19px 10px;
     background-color: white;
+
+}
+
+.contentCard h3 {
+    color: #232F65;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.contentCard p {
+    color: #515151;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.contentCard span {
+    color: #4A4A4A;
+    font-size: 14px;
+    font-weight: 400;
 }
 
 .student {
@@ -172,9 +226,16 @@
     display: block;
 }
 
+.cardCourseImage {
+    background-position: center;
+    background-size: cover;
+    height: 290px;
+    position: relative;
+}
+
 .cardCourseImage img {
     width: 100%;
-    height: 290px;
+    height: 100%;
 }
 
 .dropdown {
@@ -188,15 +249,21 @@
 }
 
 .rotate {
-    transform: rotate(180deg);
+    transform: rotate(180deg) translate(20px, -10px);
 }
 
 .cardCourse {
     max-height: 300px;
-    border: 1px solid #5C5A5A;
+    border: 1px solid #515151;
     border-radius: 18px;
     transition: max-height 0.3s;
     column-gap: 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.cardCourse:hover {
+    border: 3px solid #232F65;
 }
 
 .cardCourse.expand {
@@ -224,6 +291,10 @@
     font-size: 32px;
     font-style: normal;
     font-weight: 600;
+}
+
+.popularContainer {
+    margin-top: 150px;
 }
 
 .filterItem {
@@ -260,12 +331,13 @@
         width: 100%;
     }
 
+
     .specialCourseInfo .right {
         width: 100%;
     }
 
     .target {
-        width: 100%;
+        width: 80%;
         padding-right: 0px;
         border-right: 0px solid black;
     }
@@ -274,9 +346,99 @@
         padding-right: 0px;
     }
 
+
+
+    .tittleContainer {
+        width: 80%;
+    }
+
+    .tittle {
+        font-size: 16px;
+    }
+
+    .desc {
+        font-size: 10px;
+    }
+
+    .institutionName {
+        font-size: 8px;
+    }
+
+    .institutionLogo {
+        width: 35px;
+        height: 35px;
+    }
+
+    .institutionContainer {
+        row-gap: 6px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .infoCourseItem span {
+        font-size: 12px;
+    }
+
+    .infoCourseItem div {
+        padding: 7px 9px;
+        font-size: 9px;
+    }
+
+    .detailInfoSpecialCourse h1 {
+        width: 70%;
+        font-size: 16px;
+    }
+
+    .detailInfoSpecialCourse p, .detailInfoSpecialCourse span {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 17.5px;
+        letter-spacing: 0.5px;
+    }
+
+    .announce {
+        width: 47px;
+    }
+
+    .CourseLearned h1 {
+        margin-top: 78px;
+        margin-bottom: 35px;
+        font-size: 16px;
+        width: 70%;
+    }
+
+    .contentCard h3 {
+        font-size: 14px;
+    }
+
+    .contentCard p {
+        font-size: 12px;
+    }
+
+    .contentCard span {
+        font-size: 8px;
+    }
+
+    .cardCourse.expand {
+        max-height: 80px;
+    }
+
+    .cardCourse {
+        height: 180px;
+    }
+
+    .cardCourseImage {
+        width: 400px;
+        height: 180px;
+    }
+
+    .rotate {
+        transform: rotate(180deg) translate(10px, 2px);
+    }
+
 }
 
-@media only screen and (max-width: 770px) {
+@media only screen and (max-width: 769px) {
     .headContainer h1 {
         font-size: 20px;
     }
@@ -294,9 +456,7 @@
     .detailCourseCardContainer {
         row-gap: 20px;
     }
-}
 
-@media only screen and (max-width: 769px) {
     .previewMateriContainer .left {
         width: 100%;
     }

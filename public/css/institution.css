@@ -1,0 +1,64 @@
+h1.institutionTittle {
+    color: #232F65;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.cardInstiutionContainer {
+    flex-wrap: wrap;
+
+}
+
+.cardInstitution {
+    color: #06241B;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 15px;
+    border: 1.4px solid #DADAF7;
+    padding: 31px 45px;
+}
+
+.imageContainer {
+    width: 75px;
+    height: 79px;
+    margin: auto;
+}
+
+.imageContainer img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 980px) {
+    .cardInstitution {
+        font-size: 12px;
+        padding: 10px 24px;
+        font-size: 6px;
+    }
+
+    .imageContainer {
+        width: 33px;
+        height: 35px;
+    }
+
+    h1.institutionTittle {
+        font-size: 25px;
+    }
+}
+
+@media only screen and (max-width: 520px) {
+    .cardInstitution {
+        font-size: 12px;
+        padding: 10px 24px;
+        font-size: 6px;
+    }
+
+    .imageContainer {
+        width: 33px;
+        height: 35px;
+    }
+
+    h1.institutionTittle {
+        font-size: 16px;
+    }
+}
