@@ -22,3 +22,4 @@ Auth::routes();
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/detailCourse', [App\Http\Controllers\DetailCourseController::class, 'index'])->name('detailCourse');
 Route::get('/specialCourse', [App\Http\Controllers\SpecialCourseController::class, 'index'])->name('specialCourse');
+Route::get('/institution', [App\Http\Controllers\InstitutionController::class, 'index'])->name('institution');
