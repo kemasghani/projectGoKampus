@@ -1,3 +1,7 @@
+#card {
+    box-shadow: 0px 1.875531792640686px 16.41090202331543px rgba(121, 102, 234, 0.08);
+}
+
 #card .topCardContent {
     padding-top: 20px;
     padding-bottom: 32px;
@@ -16,8 +20,9 @@
 
 #card .tittle {
     padding-top: 20px;
+    padding-right: 30px;
     height: 75px;
-    font-size: 24px;
+    font-size: 21px;
     font-style: normal;
     font-weight: 700;
 }
@@ -43,9 +48,9 @@
 
 #card .lesson {
     padding: 5px 11px;
-    background-color: #afafaf;
+    background-color: #FAB437;
     border-radius: 12px;
-    color: white;
+    color: black;
     font-size: 11px;
     font-style: normal;
     font-weight: 500;

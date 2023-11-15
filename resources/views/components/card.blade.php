@@ -38,7 +38,7 @@
                             <div class="role">Digital Marekting</div>
                         </div>
                     </div>
-                    <div class="lesson">Lesson</div>
+                    <div class="lesson">More</div>
                 </div>
             </div>
         @endif
