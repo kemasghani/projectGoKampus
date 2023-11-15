@@ -1,6 +1,7 @@
 #cardSmallest {
     height: 100%;
     width: 300px;
+    box-shadow: 0px 1.875531792640686px 16.41090202331543px rgba(121, 102, 234, 0.08);
 }
 
 img.imageCardContainer {
@@ -51,9 +52,9 @@ img.imageCardContainer {
 
 #cardSmallest .lesson {
     padding: 5px 11px;
-    background-color: #afafaf;
+    background-color: #FAB437;
     border-radius: 12px;
-    color: white;
+    color: black;
     font-size: 9px;
     font-style: normal;
     font-weight: 500;
@@ -144,4 +145,3 @@ img.imageCardContainer {
         font-size: 10px;
     }
 }
-
