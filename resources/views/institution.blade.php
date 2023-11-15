@@ -1,41 +1,124 @@
-@extends('layouts.app')
+<!DOCTYPE html>
+<html lang="en">
 
-@push('styles')
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
     <link rel="stylesheet" href="{{ asset('css/institution.css') }}">
-@endpush
+</head>
 
-@push('scripts')
-    <script src="//unpkg.com/alpinejs" defer></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.1/axios.js"></script>
-@endpush
+<body>
+    @extends('layouts.app')
 
-@section('content')
-    <div class="container">
-        <h1>Institusi</h1>
-
-        <div class="row row-cols-6 g-3 pt-4">
-            @for($i = 1; $i <= 24; $i++)
-                <div class="col">
-                    <div class="card card-institution border border-2 text-center p-3 bg-white">
-                        <img src="{{ asset('images/institution.png') }}"
-                             class="mx-auto"
-                             width="75px"
-                             alt="Institution"
-                        >
-                        <div class="card-body">
-                            <h5 class="card-title m-0">Test {{$i}}</h5>
+    @section('content')
+        <div class="container">
+            <h1 class="institutionTittle">Institusi</h1>
+            <div class="d-flex cardInstiutionContainer justify-content-between gap-2 gap-md-3 gap-lg-4">
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
                         </div>
+                        <span>Digital Marketing</span>
                     </div>
                 </div>
-            @endfor
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+                        </div>
+                        <span>Digital Marketing</span>
+                    </div>
+                </div>
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+                        </div>
+                        <span>Digital Marketing</span>
+                    </div>
+                </div>
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+                        </div>
+                        <span>Digital Marketing</span>
+                    </div>
+                </div>
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+                        </div>
+                        <span>Digital Marketing</span>
+                    </div>
+                </div>
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+                        </div>
+                        <span>Digital Marketing</span>
+                    </div>
+                </div>
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+                        </div>
+                        <span>Digital Marketing</span>
+                    </div>
+                </div>
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+                        </div>
+                        <span>Digital Marketing</span>
+                    </div>
+                </div>
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+                        </div>
+                        <span>Digital Marketing</span>
+                    </div>
+                </div>
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+                        </div>
+                        <span>Digital Marketing</span>
+                    </div>
+                </div>
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+                        </div>
+                        <span>Digital Marketing</span>
+                    </div>
+                </div>
+                <div class="d-flex flex-column cardInstitution">
+                    <div>
+                        <div class="imageContainer">
+                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+                        </div>
+                        <span>Digital Marketing</span>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-5">
+                <img src="{{ asset('images/bannerMaxy.png') }}" alt="bannerMaxy" style="width: 100%">
+            </div>
         </div>
+    @endsection
 
-        <div class="mt-5">
-            <img src="{{ asset('images/image-banner.png') }}" class="w-100" alt="Placeholder Banner">
-        </div>
-    </div>
+</body>
 
-    <div class="mt-5">
-        <img src="{{ asset('images/bannerMaxy.png') }}" class="w-100" alt="bannerMaxy">
-    </div>
-@endsection
+</html>
