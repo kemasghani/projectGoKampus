@@ -1,0 +1,323 @@
+{
+    "data": [
+        {
+            "slug": "amazon-web-services",
+            "name": "Amazon Web Services",
+            "description": "Jelajahi lebih dari 100 produk dan mulailah membangun di AWS menggunakan Tingkat Gratis. Tersedia tiga tipe penawaran gratis yang berbeda tergantung produk yang digunakan. Klik ikon di bawah ini untuk menjelajahi penawaran kami.",
+            "image_url": "https://s.gokampus.com/course-institutions/A2trauZewkpTzQUTnv5RTjwnedbZ4m6I2y2TWZxD.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/certificatetemplate/aws.png",
+            "total_courses": 484,
+            "total_learners": 34332,
+            "is_business": false
+        },
+        {
+            "slug": "meta-spark",
+            "name": "Meta Spark",
+            "description": "Baik Anda pembelajar baru atau profesional berpengalaman, Meta Spark Studio memiliki semua fitur dan kemampuan yang Anda perlukan untuk membuat efek augmented reality yang menarik.",
+            "image_url": "https://s.gokampus.com/provider/meta_spark.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "",
+            "total_courses": 3,
+            "total_learners": 885,
+            "is_business": false
+        },
+        {
+            "slug": "tiktok-ads-academy",
+            "name": "TikTok Ads Academy",
+            "description": "TikTok Ads Academy: Kelas Virtual adalah webinar pelatihan bulanan yang dirancang dengan mempertimbangkan agensi media dan praktisi industri. Program pelatihan ini akan membekali Anda dengan pengetahuan produk, keterampilan, dan sumber daya terbaru untuk menjalankan kampanye yang sukses di TikTok. Kami akan membantu Anda memaksimalkan kampanye iklan Anda dengan TikTok.",
+            "image_url": "https://s.gokampus.com/course-institutions/xFmcLEx9ssCs6M2mRblgspCLckDGhBul77MImhWs.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "",
+            "total_courses": 25,
+            "total_learners": 2045,
+            "is_business": false
+        },
+        {
+            "slug": "national-university-of-singapore",
+            "name": "National University of Singapore",
+            "description": "The National University of Singapore (NUS) is a national research university in Singapore. Founded in 1905 as the Straits Settlements and Federated Malay States Government Medical School, it is the oldest autonomous university in Singapore and one of the most prestigious academic institutions in the world as well as in Asia itself.",
+            "image_url": "https://s.gokampus.com/course-institutions/molPsNk6ieF1vnM8XPVAJBN9T7dXUNqwRY75ZmPe.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/437fg57SG1mRvWoQnCdQ1ackfuBZilv5PX7bkhi5.png",
+            "total_courses": 2,
+            "total_learners": 70690,
+            "is_business": false
+        },
+        {
+            "slug": "stem-universitas-prasetiya-mulya",
+            "name": "STEM Universitas Prasetiya Mulya",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/3aTdRP4IGwGrcg4WYhdHB9pDdKBq84hQ4rSiGXDv.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/D4EYyCI8mv6Te1sH5uDZ5aVo0wH63IeV7gHUZFJw.png",
+            "total_courses": 4,
+            "total_learners": 8918,
+            "is_business": false
+        },
+        {
+            "slug": "microsoft",
+            "name": "Microsoft",
+            "description": "Microsoft adalah vendor perangkat lunak komputer terbesar di dunia. Itu juga merupakan penyedia terkemuka layanan komputasi awan, permainan video, komputer dan perangkat keras permainan, pencarian dan layanan online lainnya.",
+            "image_url": "https://s.gokampus.com/provider/Microsoft.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "",
+            "total_courses": 2,
+            "total_learners": 103,
+            "is_business": false
+        },
+        {
+            "slug": "uipath-academic-alliance",
+            "name": "UiPath Academic Alliance",
+            "description": "UiPath telah menjadi pemimpin di setiap Gartner Magic Quadrant, Forrester Wave, dan Everest Peak Matrix untuk RPA. #1 di semua situs Tinjauan Pengguna Independen Utama untuk RPA termasuk Gartner Peer Insights, GSCrowd, TrustRadius, Capterra, dan ITCentralStation.",
+            "image_url": "https://s.gokampus.com/course-institutions/5EWzRJoYneG0lLI73q0vMhPT5QJmyBN5cfQa6F52.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "",
+            "total_courses": 1,
+            "total_learners": 397,
+            "is_business": false
+        },
+        {
+            "slug": "tokopedia-academy",
+            "name": "Tokopedia Academy",
+            "description": "Learning ground for the future digital talents.\r\nTokopedia Academy connect people in the community, and provide learning access for everyone through a carefully selected curriculum, mentoring sessions, expert trainers and contributors from the industry.",
+            "image_url": "https://s.gokampus.com/course-institutions/6lJBZv7cpaL9dkXqI9eY2J5BUYmWPDm1gGVHWv3U.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "",
+            "total_courses": 15,
+            "total_learners": 22295,
+            "is_business": false
+        },
+        {
+            "slug": "glints",
+            "name": "Glints",
+            "description": "TEMPAT PENGEMBANGAN KARIER TERBAIK UNTUKMU",
+            "image_url": "https://s.gokampus.com/course-institutions/2dxvbySxR7UsHzd6q615zgZmwfeqHR2d5NBr2seP.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/certificatetemplate/bec81732-df27-429d-9cba-8fa4c3094e4a.png",
+            "total_courses": 13,
+            "total_learners": 1691,
+            "is_business": false
+        },
+        {
+            "slug": "wikimedia-indonesia",
+            "name": "Wikimedia Indonesia",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/bGMnJObr82UWwL6CjH2QFvyiCQvVvxzutIuRkC5U.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "",
+            "total_courses": 3,
+            "total_learners": 2561,
+            "is_business": false
+        },
+        {
+            "slug": "apiary-academy",
+            "name": "Apiary Academy",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/r9ApY4ODvo0xZ7AzMUsAIYGkuxpPbwBQJJ65am4T.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/fjGq9Tp0HucBcPEhGN12UejhCY6CZbREka2F7myw.png",
+            "total_courses": 4,
+            "total_learners": 5857,
+            "is_business": false
+        },
+        {
+            "slug": "kariermu",
+            "name": "Kariermu",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/5h3Cn9n01h4YdfJo0FX1mYolCNEFFnIvi1yMAMd3.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "",
+            "total_courses": 2,
+            "total_learners": 38,
+            "is_business": false
+        },
+        {
+            "slug": "greatmind",
+            "name": "Greatmind",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/KyOVE3IyrP4IRQEn3OFfltsvcmTDNDW0d7URaF4y.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "",
+            "total_courses": 36,
+            "total_learners": 101,
+            "is_business": false
+        },
+        {
+            "slug": "mindtera",
+            "name": "Mindtera",
+            "description": "Ekosistem pembelajaran digital untuk membekali karyawan dan perusahaan untuk memastikan praktik terbaik dalam menjalankan nilai-nilai perusahaan.",
+            "image_url": "https://s.gokampus.com/course-institutions/tCpfhoqLExfpD2O92XRxTj35MWEC6RZNENoFHpeo.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/certificatetemplate/4ca622ec-1acb-4794-9159-4da0a525bb2d.png",
+            "total_courses": 15,
+            "total_learners": 55940,
+            "is_business": false
+        },
+        {
+            "slug": "capstone-tml",
+            "name": "Capstone TML",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/9dBuxTI9v8fqOILYiKThUjGR4fu70RLm7LMwjHm6.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/B4qa6M0gblGBzaI8MUz3qXThOcx5BnjIEEQEFcyJ.png",
+            "total_courses": 6,
+            "total_learners": 1695,
+            "is_business": false
+        },
+        {
+            "slug": "laruno-tung-desem-waringin",
+            "name": "Laruno - Tung Desem Waringin",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/Wn5HiLGGlGej7dhFHL0DUSCSQeUkuo58iUPX0ibY.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/s1phRlOX3V4h5UvWh4xXwSD21xTLdZRbfzd9V65K.png",
+            "total_courses": 6,
+            "total_learners": 2364,
+            "is_business": false
+        },
+        {
+            "slug": "james-gwee-success-center",
+            "name": "James Gwee Success Center",
+            "description": "James Gwee adalah seorang Indonesian Favorite Seminar Speaker and Trainer berkewarganegaraan Singapura yang namanya sudah banyak dikenal semua kalangan di Indonesia.",
+            "image_url": "https://s.gokampus.com/course-institutions/Fea14Pf04sLxrMMJX4WeIMuygtN2Q1J5xi4Zmc2f.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "",
+            "total_courses": 36,
+            "total_learners": 75825,
+            "is_business": false
+        },
+        {
+            "slug": "merry-riana-group",
+            "name": "Merry Riana Group",
+            "description": "Miss Merry Riana adalah seorang Entrepreneur, Influencer, dan Educator wanita yang sukses di usia muda. Ia juga seorang Speaker, Trainer dan Motivator Wanita No.1 di Asia. Sebagai tokoh yang memiliki banyak pencapaian dan telah memberikan inspirasi serta motivasi kepada banyak orang, Miss Merry Riana sempat dijuluki Wanita Sejuta Dolar.t",
+            "image_url": "https://s.gokampus.com/provider/merry_riana_group.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/certificatetemplate/6b3c2f89-289d-4234-89d6-51ffb9c4f482.png",
+            "total_courses": 64,
+            "total_learners": 205925,
+            "is_business": false
+        },
+        {
+            "slug": "dedy-budiman",
+            "name": "Dedy Budiman",
+            "description": "Dedy Budiman Derap Dynamis Training & Development",
+            "image_url": "https://s.gokampus.com/course-institutions/iL3IunYPphb5RyjNrnyx1zqiPYdGdyX8N3iu3J24.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/certificatetemplate/380a026e-57a3-423d-b5c6-7b499cc0b665.png",
+            "total_courses": 2,
+            "total_learners": 20527,
+            "is_business": false
+        },
+        {
+            "slug": "roby-oktober",
+            "name": "Roby Oktober",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/4V6FLRzM4SRJyzrb5eVFB79ZT4zePviTVdNGfEpU.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "",
+            "total_courses": 20,
+            "total_learners": 5926,
+            "is_business": false
+        },
+        {
+            "slug": "sekata-indonesia-perkasa-sip-institute",
+            "name": "Sekata Indonesia Perkasa (SIP) Institute",
+            "description": "SIP adalah perusahaan yang berfokus pada pelatihan kepemimpinan bisnis. Kami percaya sebuah organisasi akan menjadi versi terbaiknya ketika orang-orang di dalamnya mengembangkan kekuatannya, membangunnya dengan integritas, untuk mencapai tujuan yang penuh makna.\r\n[SIP: Strength (Kekuatan) - Integrity (Integritas) -Purpose (Tujuan)]",
+            "image_url": "https://s.gokampus.com/provider/SIP-.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/certificatetemplate/f5dfd90d-8a34-433c-ae00-e938a30eef13.png",
+            "total_courses": 3,
+            "total_learners": 152,
+            "is_business": false
+        },
+        {
+            "slug": "foodizz",
+            "name": "Foodizz",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/0ikGRkm50DB7O4VPNkGvENa2bbkqCB1tDhCm67bO.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/W5Hf2aTgnvBHfdVSG1pHnUlZcjF7Qs37ZZR8wltX.png",
+            "total_courses": 19,
+            "total_learners": 5981,
+            "is_business": false
+        },
+        {
+            "slug": "decon",
+            "name": "DECON",
+            "description": "DECON",
+            "image_url": "https://s.gokampus.com/course-institutions/rMkmghdn7ls7kvgeLrln62oZghtuLgk5m01H7H49.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/certificatetemplate/ui_cert.png",
+            "total_courses": 10,
+            "total_learners": 1842,
+            "is_business": false
+        },
+        {
+            "slug": "digitos-classroom",
+            "name": "Digitos ClassRoom",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/uCvlpo8ZfiSnpCI1O3dwdrnfYMxSJsdl06Hloake.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/dWnsCbJRP3ekoMh37M7kw1Niv3m8ktIg1fHZYJfI.png",
+            "total_courses": 6,
+            "total_learners": 1881,
+            "is_business": false
+        },
+        {
+            "slug": "sbs-institute",
+            "name": "SBS Institute",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/Uy8nqwkjk4LdninwKkvKs4DEov5Fjfb3G3MEaOzC.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/1cNYK2PFsWer8XWmnzJ1ws43yOlIuLv23Jbo0t0L.png",
+            "total_courses": 2,
+            "total_learners": 62,
+            "is_business": false
+        },
+        {
+            "slug": "lingotalk",
+            "name": "LingoTalk",
+            "description": "LingoTalk adalah solusi teknologi pendidikan yang menyediakan pembelajaran bahasa yang dipersonalisasi untuk sekolah.",
+            "image_url": "https://s.gokampus.com/provider/lingotalk.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/certificatetemplate/lingotalk.png",
+            "total_courses": 2,
+            "total_learners": 54218,
+            "is_business": false
+        },
+        {
+            "slug": "freshminds-indonesia",
+            "name": "Freshminds Indonesia",
+            "description": "",
+            "image_url": "https://s.gokampus.com/course-institutions/OTAaNurnrLRIdtSCyzDv7BKn6bnxtPMppWi7cTnR.jpg",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/2Ct1CulEf2qbUrC6zd64bBhr0FWCBAaKGkqZjC0S.png",
+            "total_courses": 1,
+            "total_learners": 1785,
+            "is_business": false
+        },
+        {
+            "slug": "national-battery-research-institute",
+            "name": "National Battery Research Institute",
+            "description": "The National Battery Research Institute (NBRI) was legally established on 17th December 2020 as The Center of Excellence Innovation of Battery and Renewable Energy Foundation, with Prof.Dr. Evvy Kartini as a Founder and Prof Alan J. Drew as Co-Founder. NBRI is Indonesia's independent institute for electrochemical energy storage science and technology, supporting research, training, and education.",
+            "image_url": "https://s.gokampus.com/course-institutions/46GY9HRMk030YD2wHYtfgjXQK3x7C2Br59XBszv8.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "",
+            "total_courses": 2,
+            "total_learners": 2384,
+            "is_business": false
+        },
+        {
+            "slug": "gokampus",
+            "name": "GoKampus",
+            "description": "GoKampus",
+            "image_url": "https://s.gokampus.com/provider/19c02189-1336-4c06-a0c8-bdd2b60220ad.png",
+            "certificate_background_image_url": "",
+            "certificate_sample_image_url": "https://s.gokampus.com/certificatetemplate/ae132575-93a6-4d6c-8521-b6238e7ad6f4.png",
+            "total_courses": 15,
+            "total_learners": 69344,
+            "is_business": false
+        }
+    ]
+}

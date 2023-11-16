@@ -1,0 +1,3331 @@
+{
+    "data": [
+        {
+            "id": 537,
+            "slug": "peningkatan-pelayanan-lewat-transformasi-digital-pemerintah",
+            "name": "Peningkatan Pelayanan Lewat Transformasi Digital Pemerintah",
+            "description": "<p>Kelas ini membahas bagaimana meningkatkan inisiatif pemerintah dalam transformasi digital dapat meningkatkan pengalaman pelanggan. Kelas ini menekankan pentingnya kerja sama antara sektor pemerintah dan swasta dalam mendorong transformasi digital dan manfaat yang dapat diterima pelanggan dalam hal akses terhadap layanan dan informasi. Kelas ini juga menekankan kebutuhan akan pendekatan holistik dalam transformasi digital, termasuk integrasi teknologi, orang, dan proses, untuk mencapai pengalaman pelanggan yang benar-benar meningkatkan.</p>\r\n\r\n<p>Selain itu, kelas ini juga menjelaskan bagaimana transformasi digital dapat membantu pemerintah dalam meningkatkan efisiensi dan transparansi dalam pelayanan publik. Dengan menggunakan teknologi seperti pemrosesan data, analisis, dan pembelajaran mesin, pemerintah dapat mengumpulkan dan menganalisis data pelanggan untuk meningkatkan kualitas pelayanan dan mengurangi biaya. Selain itu, transformasi digital juga dapat membantu pemerintah dalam meningkatkan aksesibilitas dan partisipasi masyarakat dalam proses pengambilan keputusan.</p>",
+            "image_cover_url": "https://s.gokampus.com/courses/537/y1rHXMcV7ZAC2SrWr7rGlexrPpt5AGjoB4Bd1KLe.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/course/f03ed57a-e65c-43ba-876a-a81d304797f9/opening-keynote-by-astri-wahyuni,-senior-vp-of-public-policy-_-governme.m3u8?Expires=1699419598&Signature=BN-8Jo~XNdfl5XDQpsAxvv5M8AsH2Hw3HWk0BdQloEh3pZF9BK0CfigzlTujmnEmxwzq5Ej3jlF2VEfr19lyu0W8lYxz6FQGGX72DCx5f~OJQFhqKLA4dBMlKkd8GgHkNY2fxIboCfQv3SMyM9zDdtv8So4i5U6hyEHPZw0Q3eNlUdnXGmlwl0IJTAVmM9~-vFtwoG69zbTdiQJiqxchPaZoeQliwnZSk4Ayzw5yVFLTSFo91hN6CDtggbaMjUGybTUrmbRUXjRehTBHgofV0kgmVsz~frlXQeaoUdaqzC0fihkR9e3vr-gJ3QJDalF9i5MdWRjLdeRhrvt0Hin57Q__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 6,
+            "has_certificate": false,
+            "original_price": 99000,
+            "discounted_price": 0,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "tokopedia-academy",
+                "name": "Tokopedia Academy",
+                "description": "Learning ground for the future digital talents.\r\nTokopedia Academy connect people in the community, and provide learning access for everyone through a carefully selected curriculum, mentoring sessions, expert trainers and contributors from the industry.",
+                "image_url": "https://s.gokampus.com/course-institutions/6lJBZv7cpaL9dkXqI9eY2J5BUYmWPDm1gGVHWv3U.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "operations-management",
+                "name": "Operations & Management",
+                "description": "Operations & Management",
+                "image_url": "https://s.gokampus.com/course-categories/qOesBYjlIEBiJV5omhUpulbIbnGHBOLz1SOTdBA5.png"
+            },
+            "skills": [
+                {
+                    "slug": "business-entrepreneurship",
+                    "name": "Business & Entrepreneurship"
+                },
+                {
+                    "slug": "digital-transformation",
+                    "name": "Digital Transformation"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Peningkatan Pelayanan Lewat Transformasi Digital Pemerintah",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 1913,
+                            "sort_order": 0,
+                            "slug": "peningkatan-pelayanan-lewat-transformasi-digital-pemerintah",
+                            "name": "Peningkatan Pelayanan Lewat Transformasi Digital Pemerintah",
+                            "description": "Peningkatan Pelayanan Lewat Transformasi Digital Pemerintah",
+                            "type": "Video",
+                            "duration": 6,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": null,
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3335,
+                            "sort_order": 1,
+                            "slug": "final-quiz-51",
+                            "name": "Final Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 9,
+            "review_summary": {
+                "star_avg": 5,
+                "star_5": 9,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 8574,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                },
+                {
+                    "name": "Soft Competencies",
+                    "slug": "soft-competencies"
+                }
+            ],
+            "tags": [
+                "Digital Transformation",
+                "Customer Experience",
+                "Customer Service",
+                "Top 50",
+                "Top 20",
+                "Top 20"
+            ]
+        },
+        {
+            "id": 596,
+            "slug": "teknologi-baterai-ion-litium-101",
+            "name": "Teknologi Baterai ion Litium 101",
+            "description": "Kelas ini menampilkan proyek penelitian oleh Institut Riset Baterai Nasional. Kelas ini memperlihatkan tahapan-tahapan proses pembuatan baterai dengan teknologi terbaru yang dikembangkan oleh tim riset. Proses tersebut meliputi pembuatan anoda, katoda, dan elektrolit. Kelas juga menunjukkan hasil tes baterai yang diciptakan, yaitu dengan menunjukkan data pengisian dan pengosongan baterai.\r\n\r\nInstitut Riset Baterai Nasional berfokus pada pengembangan teknologi baterai yang efisien dan ramah lingkungan. Dengan menggunakan teknologi terbaru, baterai yang diciptakan oleh tim riset memiliki kapasitas yang lebih tinggi dan juga lebih tahan lama. Kelas ini sangat bermanfaat bagi mereka yang tertarik pada bidang teknologi baterai dan ingin mengetahui lebih jauh tentang proses pembuatannya.",
+            "image_cover_url": "https://s.gokampus.com/courses/596/k5QBp27Q101MwZxFmt3DZzt7mREBreS9zqasSJHZ.jpg",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/courses/596/auvkxvi7yh3fn0kqtgnxms5jyvrbesu98snslzim.m3u8?Expires=1699419598&Signature=jQb~VZjiVvszpvCUlX0~esYd~yli6CGx3FtPHxIHMnOVpHGMoHZXoGPjz57~6ido7FoPB4-mf1lBT~HI34Vj4bdurhyc76OL~OKdyR68XKJK~uxFIbXRGDAJVcF~csYFURkG~CmmaQN4GKj~MP5gsp2vN0InDoaghAfR8GOhZbNKnB1PN~RSqsm-F-qgvlJLFLBt~7NVRo0MQ4S6XlVmSwJLgIui0YFkDCYVvkoXrqmF8uPJoBXtknrBLRXoodUcGxDtv8YGyFk9RwTeTv38JvDdfJVwOcw5nuWFr9sUfFkrd6fZhC6kkr27YIWDqaYoRRpqxSNvA6w5d6MLGMLKsA__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 36,
+            "has_certificate": false,
+            "original_price": 25000,
+            "discounted_price": 0,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "national-battery-research-institute",
+                "name": "National Battery Research Institute",
+                "description": "The National Battery Research Institute (NBRI) was legally established on 17th December 2020 as The Center of Excellence Innovation of Battery and Renewable Energy Foundation, with Prof.Dr. Evvy Kartini as a Founder and Prof Alan J. Drew as Co-Founder. NBRI is Indonesia's independent institute for electrochemical energy storage science and technology, supporting research, training, and education.",
+                "image_url": "https://s.gokampus.com/course-institutions/46GY9HRMk030YD2wHYtfgjXQK3x7C2Br59XBszv8.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "it-tech",
+                "name": "IT & Tech",
+                "description": "IT & Tech",
+                "image_url": "https://s.gokampus.com/course-categories/1laED0ojp4CO9oQqRiFr7Q3FKlGwF8iN8e9891RN.png"
+            },
+            "skills": [
+                {
+                    "slug": "it-software",
+                    "name": "IT & Software"
+                },
+                {
+                    "slug": "engineering-applied-science",
+                    "name": "Engineering & Applied Science"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Pengenalan National Battery Research Institute",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2111,
+                            "sort_order": 1,
+                            "slug": "pengenalan-national-battery-research-institute",
+                            "name": "Pengenalan National Battery Research Institute",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 9,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3389,
+                            "sort_order": 2,
+                            "slug": "quiz-129",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Pentingnya Teknologi Baterai ion Litium",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2112,
+                            "sort_order": 1,
+                            "slug": "pentingnya-teknologi-baterai-ion-litium",
+                            "name": "Pentingnya Teknologi Baterai ion Litium",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 9,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3390,
+                            "sort_order": 2,
+                            "slug": "quiz-130",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "name": "Bagaimana Baterai ion Litium Bekerja",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2113,
+                            "sort_order": 1,
+                            "slug": "bagaimana-baterai-ion-litium-bekerja",
+                            "name": "Bagaimana Baterai ion Litium Bekerja",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 7,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3391,
+                            "sort_order": 2,
+                            "slug": "quiz-131",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "name": "Komponen Penyusun Baterai ion Litium",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2114,
+                            "sort_order": 1,
+                            "slug": "komponen-penyusun-baterai-ion-litium",
+                            "name": "Komponen Penyusun Baterai ion Litium",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 9,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3392,
+                            "sort_order": 2,
+                            "slug": "quiz-132",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "name": "Penilaian",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3395,
+                            "sort_order": 1,
+                            "slug": "final-quiz-83",
+                            "name": "Final Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 5,
+            "review_summary": {
+                "star_avg": 4.6,
+                "star_5": 4,
+                "star_4": 0,
+                "star_3": 1,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 2278,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Battery",
+                "Energy",
+                "Renewable Energy"
+            ]
+        },
+        {
+            "id": 587,
+            "slug": "identifikasi-risiko-bisnis-untuk-peningkatan-customer-experience",
+            "name": "Identifikasi Risiko Bisnis untuk Peningkatan Customer Experience",
+            "description": "Kelas ini membahas pentingnya mengidentifikasi risiko bisnis sebagai upaya untuk meningkatkan pengalaman pelanggan (CX). Dalam kelas ini, akan diberikan pandangan tentang bagaimana mempertimbangkan risiko saat membuat keputusan bisnis dan beberapa contoh bagaimana risiko dapat mempengaruhi CX. Ini memberikan wawasan yang berguna bagi mereka yang ingin memahami bagaimana meningkatkan pengalaman pelanggan melalui pengelolaan risiko bisnis yang efektif.\r\n\r\nLebih lanjut, kelas ini akan memberikan tips dan trik untuk mengidentifikasi risiko bisnis dan mengatasinya dengan cara yang tepat. Ini akan membantu peserta memahami bagaimana risiko bisnis dapat mempengaruhi CX dan bagaimana mengelola risiko tersebut untuk meningkatkan pengalaman pelanggan secara keseluruhan. Kelas ini sangat berguna bagi siapa saja yang ingin memahami lebih dalam tentang bagaimana mengelola risiko bisnis untuk meningkatkan pengalaman pelanggan.",
+            "image_cover_url": "https://s.gokampus.com/courses/587/ZV372OVK5BzJGC4xv8Drs2mjoYuwFa581KA2LQTn.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/courses/587/fl3fwqujhegcsonssvi9l4zg7snmovseyaasgweg.m3u8?Expires=1699419598&Signature=ntx-IBLswMbJcw0qgjWvaLnC~yN7E2-CemycaxIOYoP~pW42d5iRgGyw6NgY-GoVTb6PlgdKMru0S7jBMBhnwmtloz0zG86B8-Vl3YLMeS2xcOmGsUDjybonk2OePMBOPWzyco~4FGa9p3zG9VItKwAiTkvOS9FUjAx38oHm2Ay11i892nr3r8xOwLpvrECWsFMnrLa9kPb0AUTdHwCtUfWWebppDiTY~39XhHcCDVv3mZQaTNojj1VKz1pgiJx7knAmIhA5oVE2Ptow~RwV2Y7xb8hBoH8U6WMhw4K2m0vovgOFv~nkMvxppY3fD7kWClbDv74X8mbXIwWEzJ5J7w__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 40,
+            "has_certificate": false,
+            "original_price": 99000,
+            "discounted_price": 0,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "tokopedia-academy",
+                "name": "Tokopedia Academy",
+                "description": "Learning ground for the future digital talents.\r\nTokopedia Academy connect people in the community, and provide learning access for everyone through a carefully selected curriculum, mentoring sessions, expert trainers and contributors from the industry.",
+                "image_url": "https://s.gokampus.com/course-institutions/6lJBZv7cpaL9dkXqI9eY2J5BUYmWPDm1gGVHWv3U.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "business-entrepreneurship-2",
+                "name": "Business & Entrepreneurship",
+                "description": "Business & Entrepreneurship",
+                "image_url": "https://s.gokampus.com/course-categories/WvMsniVY7XHQgyyYnXkLiuzgO3w6ZOcwN51zmHLx.png"
+            },
+            "skills": [
+                {
+                    "slug": "sales-marketing",
+                    "name": "Sales & Marketing"
+                },
+                {
+                    "slug": "customer-management",
+                    "name": "Customer Management"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Perkenalan Managemen Risiko dalam Dunia Bisnis",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2050,
+                            "sort_order": 1,
+                            "slug": "perkenalan-managemen-risiko-dalam-dunia-bisnis",
+                            "name": "Perkenalan Managemen Risiko dalam Dunia Bisnis",
+                            "description": "Identifikasi Risiko Bisnis untuk Peningakatan Customer Experience - Module 1",
+                            "type": "Video",
+                            "duration": 16,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 2902,
+                            "sort_order": 2,
+                            "slug": "short-quiz-17",
+                            "name": "Short Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 0,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Management Resiko Bisnis dalam Platform Digital",
+                    "chapter_lesson_count": 3,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2052,
+                            "sort_order": 1,
+                            "slug": "resiko-bisnis-dalam-industri-e-commerce-dan-cara-penanganannya",
+                            "name": "Resiko Bisnis dalam Industri E-commerce dan Cara Penanganannya",
+                            "description": "Identifikasi Risiko Bisnis untuk Peningakatan Customer Experience - Module 2",
+                            "type": "Video",
+                            "duration": 15,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 2051,
+                            "sort_order": 2,
+                            "slug": "risk-management-bagi-costumer-dan-tantangan-cx",
+                            "name": "RIsk Management Bagi Costumer dan Tantangan CX",
+                            "description": "Identifikasi Risiko Bisnis untuk Peningakatan Customer Experience - Module 3",
+                            "type": "Video",
+                            "duration": 8,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 2901,
+                            "sort_order": 3,
+                            "slug": "final-quiz-4",
+                            "name": "Final Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 0,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 4,
+            "review_summary": {
+                "star_avg": 5,
+                "star_5": 4,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 4632,
+            "competences": [
+                {
+                    "name": "Soft Competencies",
+                    "slug": "soft-competencies"
+                },
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Customer Experience",
+                "Customer Service",
+                "Customer Focus",
+                "Business Risk"
+            ]
+        },
+        {
+            "id": 479,
+            "slug": "mau-sukses-dalam-karir-ini-caranya",
+            "name": "Mau Sukses Dalam Karir? Ini Caranya",
+            "description": "<p>Kita tau, karyawan digaji untuk membantu perusahaan meningkatkan profit. Kamu mungkin berpikir, &quot;Kalau begitu, karir yang bagus di perusahaan adalah sebagai tenaga penjualan?&quot; Tidak salah, bagaimana pun perusahaan bisa profit kalau produknya berhasil terjual.<br />\r\n<br />\r\nMeskipun begitu, kamu bisa kok sukses dalam karir apa pun yang kamu pilih. Kamu memilih karir dalam bidang accounting, programming, desain, atau apa pun pasti bisa sukses juga. Kuncinya: ada kontribusi penting untuk perusahaan selain meningkatkan profit. Kamu akan mendapatkan &quot;kunci&quot; ini langsung dari James Gwee. Belajar sekarang, gratis!</p>",
+            "image_cover_url": "https://s.gokampus.com/courses/479/9vjT9GQ4mP7ndH0F9fkn9YX10N6Bhh0DnanV0TXO.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/course/d646c57d-4213-4c1e-b125-67156173543c/14-cutmau-sukses-dalam-karir-ini-caranya-katajames-ep.m3u8?Expires=1699419598&Signature=arxtcczvfiTtj67KAMlGjxF4vi2jXjvRADx66oOF5T88WCyjVr6xxw9lWncAUrSFani8MlTtsd8vv6N3Pf6EkGe1RoJMR-RjHGoJgdwzJi92VkqoOMvl9xed-QXjdtzUluOW1ErkCKwb93hYMYYjV~UjaI6weBNErEJpNEkrAj6weR-DeWUAI38UYbycvaO6Vrdj2v7NvAMUyilW4msBdBL-Pr9OWdAmORnPHE1i60DIOBC4rfd9QqsnLOeRnzxhWpO98XSIxFkYhOyF9o1j6iLvsToHtQXT~Hjhar0apOzB0ZCUfaEi1YFQXSnYrorft4EuWyPWoCSrMkdaJxwg2g__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 11,
+            "has_certificate": false,
+            "original_price": 50000,
+            "discounted_price": 0,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "james-gwee-success-center",
+                "name": "James Gwee Success Center",
+                "description": "James Gwee adalah seorang Indonesian Favorite Seminar Speaker and Trainer berkewarganegaraan Singapura yang namanya sudah banyak dikenal semua kalangan di Indonesia.",
+                "image_url": "https://s.gokampus.com/course-institutions/Fea14Pf04sLxrMMJX4WeIMuygtN2Q1J5xi4Zmc2f.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "personal-development",
+                "name": "Personal Development",
+                "description": "Personal Development",
+                "image_url": "https://s.gokampus.com/course-categories/qNyUHVyywz8m96fwsB3fAZyX8lu2DqI0HLVLha3n.png"
+            },
+            "skills": [
+                {
+                    "slug": "personal-development",
+                    "name": "Personal Development"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Mau Sukses Dalam Karir? Ini Caranya",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 1696,
+                            "sort_order": 0,
+                            "slug": "mau-sukses-dalam-karir-ini-caranya",
+                            "name": "Mau Sukses Dalam Karir? Ini Caranya",
+                            "description": "Mau Sukses Dalam Karir? Ini Caranya",
+                            "type": "Video",
+                            "duration": 10,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 2428,
+                            "sort_order": 1,
+                            "slug": "asah-pemahamanmu",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 0,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 7,
+            "review_summary": {
+                "star_avg": 4.8571,
+                "star_5": 6,
+                "star_4": 1,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 20920,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                },
+                {
+                    "name": "Soft Competencies",
+                    "slug": "soft-competencies"
+                }
+            ],
+            "tags": [
+                "Entrepreneurship",
+                "Business",
+                "Self-Management",
+                "Motivational",
+                "Drive",
+                "Success",
+                "Performance Enhancement",
+                "Growth Mindset",
+                "Top 50",
+                "Top 20",
+                "Top 20",
+                "Mental wellbeing"
+            ]
+        },
+        {
+            "id": 35,
+            "slug": "tonton-ini-sebelum-kamu-mengejar-kesuksesan",
+            "name": "Tonton ini Sebelum Kamu Mengejar Kesuksesan",
+            "description": "<p>Ingin tahu apa saja RAHASIA SUKSES seorang Merry Riana selama ini?</p>",
+            "image_cover_url": "https://s.gokampus.com/course/Ketika-Kamu-Merasa-Gajimu-Kecil.jpg",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/course/10b3e9a6-22b6-4650-8fcc-60022807b10c/tonton-ini-sebelum-kamu-mengejar-kesuksesan.m3u8?Expires=1699419598&Signature=AKRY4kwqG8mOs6oBTbarVmphE53OdhN2S13eDcdm9X~iQRO-IFejx6eAi28Ti7C0-pIj55FitwGOypOLrlXZVArvat~~CkkJu0vi5as9dKUPUhqXdvgcagCMeC6sAay~oFD4oGFpd2BvHpGx4bIUZKbDMvzS7ej~tpaVBeHRWekPQvir6OVJWAtNepPaQ1wZUs6~oSHWc8T9IDTehp3lSLc7NUIrBQioJbPDrF-41eSDzVzH-0J4r~8OuvfL4db7cEwA0LVQSwHmimlVuV5FRWl1qnBLzKLlrWcVvk0cwneiNnkavWWrsi-LD4uyS49P1b489xbUp9StbbbhxoSlvQ__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 4,
+            "has_certificate": true,
+            "original_price": 49000,
+            "discounted_price": 49000,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "merry-riana-group",
+                "name": "Merry Riana Group",
+                "description": "Miss Merry Riana adalah seorang Entrepreneur, Influencer, dan Educator wanita yang sukses di usia muda. Ia juga seorang Speaker, Trainer dan Motivator Wanita No.1 di Asia. Sebagai tokoh yang memiliki banyak pencapaian dan telah memberikan inspirasi serta motivasi kepada banyak orang, Miss Merry Riana sempat dijuluki Wanita Sejuta Dolar.t",
+                "image_url": "https://s.gokampus.com/provider/merry_riana_group.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "https://s.gokampus.com/certificatetemplate/6b3c2f89-289d-4234-89d6-51ffb9c4f482.png",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "personal-development",
+                "name": "Personal Development",
+                "description": "Personal Development",
+                "image_url": "https://s.gokampus.com/course-categories/qNyUHVyywz8m96fwsB3fAZyX8lu2DqI0HLVLha3n.png"
+            },
+            "skills": [
+                {
+                    "slug": "personal-development",
+                    "name": "Personal Development"
+                },
+                {
+                    "slug": "motivational",
+                    "name": "Motivational"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Tonton ini Sebelum Kamu Mengejar Kesuksesan",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 85,
+                            "sort_order": 0,
+                            "slug": "tonton-ini-sebelum-kamu-mengejar-kesuksesan",
+                            "name": "Tonton ini Sebelum Kamu Mengejar Kesuksesan",
+                            "description": "Tonton ini Sebelum Kamu Mengejar Kesuksesan",
+                            "type": "Video",
+                            "duration": 4,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 2620,
+                            "sort_order": 1,
+                            "slug": "asah-pemahamanmu-16",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 0,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 19,
+            "review_summary": {
+                "star_avg": 5,
+                "star_5": 19,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 15320,
+            "competences": [
+                {
+                    "name": "Soft Competencies",
+                    "slug": "soft-competencies"
+                },
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Motivational",
+                "Positive Thinking",
+                "Self-Management",
+                "Mental wellbeing",
+                "Life Values",
+                "Top 50",
+                "Top 20",
+                "Top 20"
+            ]
+        },
+        {
+            "id": 29,
+            "slug": "bagaimana-cara-mencapai-tipping-point-kamu",
+            "name": "Bagaimana Cara Mencapai Tipping Point Kamu?",
+            "description": "<p>Banyak orang yang sudah bekerja keras, tapi hasilnya sedikit. Akhirnya, mereka berhenti. Ini karena mereka salah tafsir mengenai sukses sebagai &quot;garis lurus&quot;. Padahal, sukses itu butuh bersabar karena proses di awal seolah hasilnya hanya sedikit, bahkan tidak ada sama sekali.<br />\r\n<br />\r\nMemulai apa pun pasti akan mengalami kesulitan. Yang perlu dilakukan adalah kamu harus terus berusaha sampai pada tipping point. Setelah mencapai tipping point, kamu akan mengalami pertumbuhan atau kesuksesan yang signifikan. Di kelas ini, James Gwee akan mengajarkanmu bagaimana mencapai tipping point.</p>",
+            "image_cover_url": "https://s.gokampus.com/courses/29/m0jU0QvBMJRqjvpXVwb0NN1O6CeQ8Ek0H3YR4nY2.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/course/0e7e5621-abb9-4a7b-80dd-e9369c4545df/20-cutbagaimana-cara-mencapai-tipping-point-kamu-katajames-ep-35-james-gwee-official.m3u8?Expires=1699419599&Signature=n6E~1tqzKl9xOAPHkWFRchCMtoBIkKG-XfdPeLyZ-YgGuPKVVOU6sMUnFuU88r7OF0iFfqJBs4rHRxGQ4pb1s2GGj~vU5IGKjrxVLP~4eY1Lhj2oiMDdFzw2JAW4oxuDnqNyzt99ozjLxM7QWkUPaPl9JDNbVsQ81u-bWV7Ofr7MgYUGsVxXnzfhy3Lqv3udVNWeKH0UPMRAmVEy2ejMOQY3YQB5vJCvNhcSB7emiwvY133xCFBPvoemtWwJ28AIqEXi41JFOZFF-druLqh7m0h96r5RaUCuQ9V2UDxhSy2clUNu049jrC1pSgMk08nJrvwI940LsohXNjjLKlq3uw__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 18,
+            "has_certificate": false,
+            "original_price": 50000,
+            "discounted_price": 0,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "james-gwee-success-center",
+                "name": "James Gwee Success Center",
+                "description": "James Gwee adalah seorang Indonesian Favorite Seminar Speaker and Trainer berkewarganegaraan Singapura yang namanya sudah banyak dikenal semua kalangan di Indonesia.",
+                "image_url": "https://s.gokampus.com/course-institutions/Fea14Pf04sLxrMMJX4WeIMuygtN2Q1J5xi4Zmc2f.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "personal-development",
+                "name": "Personal Development",
+                "description": "Personal Development",
+                "image_url": "https://s.gokampus.com/course-categories/qNyUHVyywz8m96fwsB3fAZyX8lu2DqI0HLVLha3n.png"
+            },
+            "skills": [
+                {
+                    "slug": "personal-development",
+                    "name": "Personal Development"
+                },
+                {
+                    "slug": "motivational",
+                    "name": "Motivational"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Bagaimana Cara Mencapai Tipping Point Kamu?",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 70,
+                            "sort_order": 0,
+                            "slug": "bagaimana-cara-mencapai-tipping-point-kamu",
+                            "name": "Bagaimana Cara Mencapai Tipping Point Kamu?",
+                            "description": "Bagaimana Cara Mencapai Tipping Point Kamu?",
+                            "type": "Video",
+                            "duration": 10,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3325,
+                            "sort_order": 1,
+                            "slug": "quiz-110",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 1,
+                    "name": "Mau Sukses? Siap Bayar Harga Ini",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2470,
+                            "sort_order": 0,
+                            "slug": "mau-sukses-siap-bayar-harga-ini-2",
+                            "name": "Mau Sukses? Siap Bayar Harga Ini",
+                            "description": "Mau Sukses? Siap Bayar Harga Ini",
+                            "type": "Video",
+                            "duration": 13,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3326,
+                            "sort_order": 1,
+                            "slug": "quiz-111",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 1,
+                    "name": "Mau Work Smart? Ini Cara Jitunya",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2471,
+                            "sort_order": 0,
+                            "slug": "mau-work-smart-ini-cara-jitunya-3",
+                            "name": "Mau Work Smart? Ini Cara Jitunya",
+                            "description": "Mau Work Smart? Ini Cara Jitunya",
+                            "type": "Video",
+                            "duration": 11,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3327,
+                            "sort_order": 1,
+                            "slug": "quiz-112",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Mau Tetap Semangat? Ini Caranya",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2240,
+                            "sort_order": 0,
+                            "slug": "mau-tetap-semangat-ini-caranya-2",
+                            "name": "Mau Tetap Semangat? Ini Caranya",
+                            "description": "Mau Tetap Semangat? Ini Caranya",
+                            "type": "Video",
+                            "duration": 8,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3328,
+                            "sort_order": 1,
+                            "slug": "quiz-113",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "name": "Penilaian",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3329,
+                            "sort_order": 1,
+                            "slug": "final-quiz-43",
+                            "name": "Final Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 3,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 6,
+            "review_summary": {
+                "star_avg": 4.8333,
+                "star_5": 5,
+                "star_4": 1,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 1817,
+            "competences": [
+                {
+                    "name": "Soft Competencies",
+                    "slug": "soft-competencies"
+                },
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Motivational",
+                "Positive Thinking",
+                "Entrepreneurship",
+                "Business",
+                "Self-Management",
+                "Drive",
+                "Success",
+                "Performance Enhancement",
+                "Target",
+                "Goals",
+                "Growth Mindset",
+                "Top 50",
+                "Top 20",
+                "Top 20",
+                "Mental wellbeing"
+            ]
+        },
+        {
+            "id": 133,
+            "slug": "kapan-pemimpin-paling-dibutuhkan",
+            "name": "Kapan Pemimpin Paling Dibutuhkan?",
+            "description": "<p>James Gwee mengibaratkan pemimpin sebagai pilot yang pegang kendali pesawat. Kamu tau pesawat punya mode autopilot, betul? Saat cuaca cerah, mode autopilot akan diaktifkan. Namun, saat pesawat akan menghadapi badai, baru pilot akan ambil kendali.<br />\r\n<br />\r\nBegitu juga pemimpin paling dibutuhkan saat organisasi atau perusahaan menghadapi krisis. Pertanyaan, &quot;Bagaimana melakukan hal itu dengan baik?&quot; Di kelas ini, James akan mengajarkan 3 kunci penting supaya kamu bisa menjadi pemimpin yang siap menghadapi krisis. Belajar sekarang, gratis!</p>",
+            "image_cover_url": "https://s.gokampus.com/courses/133/OAEFBjlJEfU2Xp8L7KkrkYnJLt4bm6qQ3l4s5BDo.jpg",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/course/3a43cf75-9c35-41b8-9bc4-8514134f7729/16-cutkapan-pemimpin-paling-dibutuhkan-katajames-ep.m3u8?Expires=1699419599&Signature=AAoMhqf6SUOtV4PwD~hnGQkUkJq5L0FKJGQyX-X9OojUn~-mZhOhAXWVRUFfUwG7iDo6TDMeQYZtlVYG~VmkYnJT9682IaKblQS1gSULlF5WBSCKPtg3rLZ0OTSnlNw3OsyYExVGeIvJw8Hzk0lI8mI3G3s6GHGjMLj-Ma9DAK31R7DcvXTyoe5VExtmN~J~KiJJ9ndhbqp2z1iHjhU~enRP3pSg5ePG6ub6bMramGEnWhp3~SyLKv~UNSvtAHzVx5CZqkVvNKiw38-p1Xe3uiXv9ySMXvskPv46WzLzy-NUe9kA9AVgZbFqoXOnbTM9lNg1J6hCPF5ukU0j0snBCA__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 9,
+            "has_certificate": false,
+            "original_price": 50000,
+            "discounted_price": 0,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "james-gwee-success-center",
+                "name": "James Gwee Success Center",
+                "description": "James Gwee adalah seorang Indonesian Favorite Seminar Speaker and Trainer berkewarganegaraan Singapura yang namanya sudah banyak dikenal semua kalangan di Indonesia.",
+                "image_url": "https://s.gokampus.com/course-institutions/Fea14Pf04sLxrMMJX4WeIMuygtN2Q1J5xi4Zmc2f.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "operations-management",
+                "name": "Operations & Management",
+                "description": "Operations & Management",
+                "image_url": "https://s.gokampus.com/course-categories/qOesBYjlIEBiJV5omhUpulbIbnGHBOLz1SOTdBA5.png"
+            },
+            "skills": [
+                {
+                    "slug": "leadership-management",
+                    "name": "Leadership & Management"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Kapan Pemimpin Paling Di Butuhkan?",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 486,
+                            "sort_order": 0,
+                            "slug": "kapan-pemimpin-paling-dibutuhkan",
+                            "name": "Kapan Pemimpin Paling Dibutuhkan?",
+                            "description": "Kapan Pemimpin Paling Dibutuhkan?",
+                            "type": "Video",
+                            "duration": 8,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 2430,
+                            "sort_order": 1,
+                            "slug": "asah-pemahamanmu-3",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 0,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 5,
+            "review_summary": {
+                "star_avg": 4.6,
+                "star_5": 3,
+                "star_4": 2,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 881,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                },
+                {
+                    "name": "Soft Competencies",
+                    "slug": "soft-competencies"
+                }
+            ],
+            "tags": [
+                "Entrepreneurship",
+                "Business",
+                "Self-Management",
+                "Success",
+                "Top 50",
+                "Leadership",
+                "Leadership Development"
+            ]
+        },
+        {
+            "id": 508,
+            "slug": "tetap-jadi-orang-baik-meskipun",
+            "name": "Tetap Jadi Orang Baik, Meskipun…",
+            "description": "<p>&quot;Kebaikanmu akan selalu kembali kepadamu, itu hanya soal waktu&quot; - Merry Riana<br />\r\n<br />\r\nBanyak orang ingin jadi orang sukses, orang terkenal, ingin lebih sehat, jadi orang hebat, jadi orang pintar.. well boleh boleh saja. Harus malah. Tapi jangan lupa untuk TETAP JADI ORANG BAIK ya :)</p>",
+            "image_cover_url": "https://s.gokampus.com/course/Tetap-Jadi-Orang-Baik,-Meskipun….jpg",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/course/e505d8d2-fe99-4e0f-8d0f-7f17eade7dda/tetap-jadi-orang-baik,-meskipun%E2%80%A6.m3u8?Expires=1699419599&Signature=RtejXvGsU1EBaANEbnMJ~nF7Edx-7oPxtDKuL-XQlvumPe5P9cFotaIeqjv~Y-1Bg4rwyjKPl1q4V8P-Ri6LEdzqPx2wiC5PA~mu965233G46lOX8qj5X~u0KF8vtdXIgIagVvRJutTtYAOEnBnhcMUmOLQ1G-oqZFc64bSG9tIcc9Jrgxs6XDH9z8PKPEIDMfn-yuQPHPuQ-oakx3LnYfT~8Yh~95ta1VZzw~9~ye7ycigWrFWtMlGyBg6p8t1M8TpYDKAYHUSCvPG7ADoPt3GFuY9K~gbLgYov7f99flVnYHLyKwtKI8GSbf~2IEjlU51kF-ID7oYym9zhEzYLig__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 6,
+            "has_certificate": true,
+            "original_price": 49000,
+            "discounted_price": 49000,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "merry-riana-group",
+                "name": "Merry Riana Group",
+                "description": "Miss Merry Riana adalah seorang Entrepreneur, Influencer, dan Educator wanita yang sukses di usia muda. Ia juga seorang Speaker, Trainer dan Motivator Wanita No.1 di Asia. Sebagai tokoh yang memiliki banyak pencapaian dan telah memberikan inspirasi serta motivasi kepada banyak orang, Miss Merry Riana sempat dijuluki Wanita Sejuta Dolar.t",
+                "image_url": "https://s.gokampus.com/provider/merry_riana_group.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "https://s.gokampus.com/certificatetemplate/6b3c2f89-289d-4234-89d6-51ffb9c4f482.png",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "personal-development",
+                "name": "Personal Development",
+                "description": "Personal Development",
+                "image_url": "https://s.gokampus.com/course-categories/qNyUHVyywz8m96fwsB3fAZyX8lu2DqI0HLVLha3n.png"
+            },
+            "skills": [
+                {
+                    "slug": "personal-development",
+                    "name": "Personal Development"
+                },
+                {
+                    "slug": "motivational",
+                    "name": "Motivational"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Tetap Jadi Orang Baik, Meskipun…",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 1839,
+                            "sort_order": 0,
+                            "slug": "lesson-video-69",
+                            "name": "Lesson Video",
+                            "description": "Lesson Video",
+                            "type": "Video",
+                            "duration": 0,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Penilaian",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3338,
+                            "sort_order": 1,
+                            "slug": "final-quiz-54",
+                            "name": "Final Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 14,
+            "review_summary": {
+                "star_avg": 5,
+                "star_5": 14,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 2106,
+            "competences": [
+                {
+                    "name": "Soft Competencies",
+                    "slug": "soft-competencies"
+                },
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Motivational",
+                "Positive Thinking",
+                "Self-Management",
+                "Mental wellbeing",
+                "Life Values"
+            ]
+        },
+        {
+            "id": 1416,
+            "slug": "cara-membangun-personal-branding",
+            "name": "Bangun Kesuksesan Melamar Kerja Melalui Personal Branding",
+            "description": "Pentingnya personal branding untuk karier di era digital tidak bisa dipungkiri, sehingga kita harus segera sadar dengan pentingnya personal branding dan membangunnya secara perlahan sebelum terjun ke dalam dunia perkuliahan atau pekerjaan. Dengan merefleksikan keinginan akademik atau karier, maka kita akan mampu mengekspresikannya melalui personal branding, serta memahami cara untuk mempromosikan diri sendiri kepada audiens yang diinginkan. Kompetensi yang dikembangkan di program ini bisa diterapkan ke dalam setiap perencanaan karier masa depan.\r\n\r\nLearning Outcome :\r\n\"1. Memahami esensi dan keuntungan personal brand\r\n2. Merefleksikan aspirasi diri untuk karier\r\n3. Memahami cara membangun personal branding\"",
+            "image_cover_url": "https://s.gokampus.com/courses/1416/IrWkkia4dATbXt1YLTVP72yTLDVNDkZziX4oueZG.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/courses/1416/cnfAXhAXBB6gwYhD2xMbFA83HFcMR7OJzMnBYFDf.m3u8?Expires=1699419168&Signature=mAKdm5nF4qfpQErRxpeqylP8Ry3SWrIPq5BIXEHnwxO3p2pBVLPjXG0yGEkgMOlzi06FHnpx2q6lo2Bz0CML2wPCCiKoUuHSsVXZNw6wMnD8O5dlpFYU2UIFN8EHvHbRoOFcEC~KWODTXMgEIRyGXlk-tgyUX3iila4~SznbmZ85YO5qVWzzBfHzVr-gG5rcyp1zA7HbKdI8CUcbm7Oh2KTXae0Yft6sRNw77ht7LHj0TKaI5aqpzbZaUX75w7e4EYnd1xDMDbXXFD0oZHCy9KAbYPA9QUdNArdwj~07pgpYPWCJV0rpBVDumYrQpXckYSDE0xCPIjq45t~e9DIAVg__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 24,
+            "has_certificate": true,
+            "original_price": 49000,
+            "discounted_price": 150000,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "kariermu",
+                "name": "Kariermu",
+                "description": "",
+                "image_url": "https://s.gokampus.com/course-institutions/5h3Cn9n01h4YdfJo0FX1mYolCNEFFnIvi1yMAMd3.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "personal-development",
+                "name": "Personal Development",
+                "description": "Personal Development",
+                "image_url": "https://s.gokampus.com/course-categories/qNyUHVyywz8m96fwsB3fAZyX8lu2DqI0HLVLha3n.png"
+            },
+            "skills": [
+                {
+                    "slug": "personal-development",
+                    "name": "Personal Development"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Apa Itu Personal Branding?",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3446,
+                            "sort_order": 1,
+                            "slug": "apa-itu-personal-branding-2",
+                            "name": "Apa Itu Personal Branding?",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3520,
+                            "sort_order": 2,
+                            "slug": "quiz-apa-itu-personal-branding",
+                            "name": "Quiz: Apa Itu Personal Branding",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Pentingnya Personal Branding untuk \"Karir\"",
+                    "chapter_lesson_count": 4,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3447,
+                            "sort_order": 1,
+                            "slug": "kenapa-kita-butuh-personal-branding-2",
+                            "name": "Kenapa Kita Butuh Personal Branding?",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 3,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3448,
+                            "sort_order": 2,
+                            "slug": "dunia-ada-di-tangan-anda-2",
+                            "name": "Dunia Ada di Tangan Anda!",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3466,
+                            "sort_order": 3,
+                            "slug": "fenomena-personal-branding-di-indonesia",
+                            "name": "Fenomena Personal Branding di Indonesia",
+                            "description": null,
+                            "type": "PDF",
+                            "duration": 0,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3522,
+                            "sort_order": 4,
+                            "slug": "quiz-personal-branding-karyawan",
+                            "name": "Quiz : Personal Branding Karyawan",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "name": "Cara Membangun Personal Branding",
+                    "chapter_lesson_count": 9,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3445,
+                            "sort_order": 1,
+                            "slug": "pengertian-salah-tentang-personal-branding",
+                            "name": "Pengertian Salah Tentang Personal Branding",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 4,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3449,
+                            "sort_order": 2,
+                            "slug": "bagaimana-membangun-personal-branding",
+                            "name": "Bagaimana Membangun Personal Branding",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 3,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3451,
+                            "sort_order": 3,
+                            "slug": "pemahaman-diri",
+                            "name": "Pemahaman Diri",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 3,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3452,
+                            "sort_order": 4,
+                            "slug": "pembuatan-konten",
+                            "name": "Pembuatan Konten",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 4,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3453,
+                            "sort_order": 5,
+                            "slug": "promosi",
+                            "name": "Promosi",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 6,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3454,
+                            "sort_order": 6,
+                            "slug": "hal-yang-harus-dan-tidak-boleh-dilakukan-dalam-personal-branding",
+                            "name": "Hal Yang Harus dan Tidak Boleh Dilakukan Dalam Personal Branding",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 2,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3455,
+                            "sort_order": 7,
+                            "slug": "tips-personal-branding",
+                            "name": "Tips Personal Branding",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 2,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3523,
+                            "sort_order": 8,
+                            "slug": "quiz-benar-atau-salah-personal-branding",
+                            "name": "Quiz : Benar atau Salah “Personal Branding”",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3524,
+                            "sort_order": 9,
+                            "slug": "quiz-promosi-online-atau-offline",
+                            "name": "Quiz : Promosi Online atau Offline?",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 1,
+            "review_summary": {
+                "star_avg": 5,
+                "star_5": 1,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 25,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Personal Development"
+            ]
+        },
+        {
+            "id": 1403,
+            "slug": "expert-explains-digital-wellbeing",
+            "name": "Expert Explains: Digital Wellbeing",
+            "description": "Greatmind adalah media yang mengeksplorasi pemikiran para influencer tentang ide, aspirasi, dan advokasi mereka terhadap berbagai topik kehidupan.\r\nCek lebih lanjut di www.greatmind.id, Instagram @greatmind.id, dan Youtube @GreatmindIndonesia.\r\n\r\nKursus ini adalah panduan yang disajikan oleh para ahli untuk memahami dan merawat kesejahteraan digital dalam era digital yang semakin maju. Kursus ini dirancang untuk membantu peserta memahami tantangan dan dampak penggunaan teknologi digital, serta memberikan strategi dan praktik terbaik untuk menjaga keseimbangan dan kesejahteraan dalam kehidupan sehari-hari.\r\n\r\nLearning Outcome :\r\n\"1. Memahami konsep kesejahteraan digital dan mengapa itu penting dalam kehidupan modern.\r\n2. Belajar mengidentifikasi tantangan dan potensi risiko yang terkait dengan penggunaan teknologi digital.\r\n3. Belajar membangun ketahanan mental terhadap dampak negatif dari media sosial dan teknologi.\"",
+            "image_cover_url": "https://s.gokampus.com/courses/1403/QKUO2H1276YJpfdCx97ULHz07x1y5EpFinPNJr3Q.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/courses/1403/pKvjPuN3rOEAlgY2ijCYvwIfZNUGkIOpxPIA9c6I.mp4?Expires=1699419169&Signature=BU7P2eyDk0rkITAPYO9KlqH39jitGLFO7ZG5hQgwzR3MYWp95-bY2UxP-IUfWiXQSZ9QTOxb4tRytQuirgPkEXRMs2rV5X8jRiG9KRIvSUbUK2S~bkLYKPCA~7wNZPFWFHuuX-R2y0PtEk-9aEdeV2nsUwOCRT9XFT8~sNjH0639b~M6ue0GDYzK3Zk3vOQHBHIdP3oTpeO1DWgP3P5A8HBjzIvS5GYum7h1LMBwbqFSNrnTrFrUqg0AI-crPYSOvf5fWGn5Dn2WWRgyAa30IMa-zGYVhGT6nBmbumYm6eZP9KIkim2qy15Eiab594HCbzAaPVyTDOEP9ans0dJ6Xw__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 7,
+            "has_certificate": false,
+            "original_price": 49000,
+            "discounted_price": 0,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "greatmind",
+                "name": "Greatmind",
+                "description": "",
+                "image_url": "https://s.gokampus.com/course-institutions/KyOVE3IyrP4IRQEn3OFfltsvcmTDNDW0d7URaF4y.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "it-tech",
+                "name": "IT & Tech",
+                "description": "IT & Tech",
+                "image_url": "https://s.gokampus.com/course-categories/1laED0ojp4CO9oQqRiFr7Q3FKlGwF8iN8e9891RN.png"
+            },
+            "skills": [
+                {
+                    "slug": "personal-development",
+                    "name": "Personal Development"
+                },
+                {
+                    "slug": "mental-health",
+                    "name": "Mental Health"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Expert Explains",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3431,
+                            "sort_order": 1,
+                            "slug": "expert-explains-digital-wellbeing",
+                            "name": "Expert Explains: Digital Wellbeing",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 7,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 0,
+            "review_summary": {
+                "star_avg": 0,
+                "star_5": 0,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 7,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                },
+                {
+                    "name": "Soft Competencies",
+                    "slug": "soft-competencies"
+                }
+            ],
+            "tags": [
+                "Personal Development",
+                "Mental health"
+            ]
+        },
+        {
+            "id": 975,
+            "slug": "an-introduction-to-applied-ai-and-machine-learning-nus",
+            "name": "An Introduction to Applied AI and Machine Learning - NUS",
+            "description": "<p>Kursus ini dirancang untuk mengajarkan Anda tentang Kecerdasan Buatan (AI) dan aplikasinya. Peserta didik akan memahami istilah dasar terkait AI seperti Pembelajaran Mesin, Pembelajaran Mendalam, dan Sistem Pakar yang akan memainkan peran kunci di masa depan teknologi dan sains. Dengan mengerjakan beberapa praktik sederhana dan proyek skala kecil, peserta akan dapat memahami penggunaan praktis AI dalam bisnis dan kehidupan sehari-hari serta beragam aplikasi dan kemungkinannya, termasuk AI sebagai karier. Dengan demikian, pelajar akan dapat menghargai tantangan AI. Karena ini adalah kursus pengantar, peserta tidak harus menjadi ahli IT atau pemrogram untuk mengikutinya.</p>\r\n<br>\r\n<p>Hasil Pembelajaran</p>\r\n<p>Di akhir kursus, para peserta akan dapat:</p>\r\n<ul>\r\n<li>Menentukan konsep dasar Kecerdasan Buatan (AI)</li>\r\n<li>Jelaskan tantangan penting di bidang AI</li>\r\n<li>Menafsirkan pendekatan AI yang penting untuk pemecahan masalah</li>\r\n<li>Jelaskan teknik pencarian dan pengoptimalan serta heuristik.</li>\r\n<li>Memahami pembelajaran mesin dan menerapkannya pada konteks bisnis dan/atau konteks kerja mereka</li>\r\n<li>Menjelaskan pembelajaran mendalam</li>\r\n<li>Mengidentifikasi di mana dan bagaimana AI (serta Machine Learning dan Deep Learning) dapat diterapkan pada tantangan bisnis mereka sendiri</li>\r\n<li>Mengidentifikasi dampak penerapan AI terhadap bisnis mereka</li>\r\n</ul>",
+            "image_cover_url": "https://s.gokampus.com/courses/975/F53TfefaaZ70af7idgMmPYBtZIHLyyaLQGVBlIdC.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/courses/975/v90nf0coBQo4jlK774esgYMp7FRK69DNf9vwlEbe.m3u8?Expires=1699419169&Signature=TjuSrKB3XZx6NlKyHuEzBQ~b6HbbD9vm4oGEk5zKhxP5B3sQB9CPPklC5uGtg6GNyKPjnEsRpcMeXi-8gW3zM7R2P12FGHvto992YOAoGpLMXhifX8IrL86ZD-pboxOKpWmUG8l~lxj3FOn-AYUDfS-2KNeE2nqzekk5CeRTDcZa3PRD7t7OByWdkWV~U7VVeLvevyZAw6o~7O~dOSykmX2rKFdCQYVquYWExjAtncZi-KY4qLnBYRrJzY6-olx3TuW-oAbSde24V4oQjZHDC6aYLLZFo2GH4aM34KtlbrUd8d1N~ngl2SnNTFUK2Ykk4zgMHHkd7q7JDzA-vrM2Yw__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 93,
+            "has_certificate": true,
+            "original_price": 1200000,
+            "discounted_price": 1200000,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "national-university-of-singapore",
+                "name": "National University of Singapore",
+                "description": "The National University of Singapore (NUS) is a national research university in Singapore. Founded in 1905 as the Straits Settlements and Federated Malay States Government Medical School, it is the oldest autonomous university in Singapore and one of the most prestigious academic institutions in the world as well as in Asia itself.",
+                "image_url": "https://s.gokampus.com/course-institutions/molPsNk6ieF1vnM8XPVAJBN9T7dXUNqwRY75ZmPe.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/437fg57SG1mRvWoQnCdQ1ackfuBZilv5PX7bkhi5.png",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "it-tech",
+                "name": "IT & Tech",
+                "description": "IT & Tech",
+                "image_url": "https://s.gokampus.com/course-categories/1laED0ojp4CO9oQqRiFr7Q3FKlGwF8iN8e9891RN.png"
+            },
+            "skills": [
+                {
+                    "slug": "it-data-analytics",
+                    "name": "IT - Data Analytics"
+                },
+                {
+                    "slug": "it-ai-machine-learning",
+                    "name": "IT - AI & Machine Learning"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "AI is Around Us",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2316,
+                            "sort_order": 1,
+                            "slug": "ai-is-around-us",
+                            "name": "AI is Around Us",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 10,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "What AI Can Do",
+                    "chapter_lesson_count": 4,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2317,
+                            "sort_order": 1,
+                            "slug": "what-ai-can-do",
+                            "name": "What AI Can Do",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 10,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 2327,
+                            "sort_order": 2,
+                            "slug": "quiz-26",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 0,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 2318,
+                            "sort_order": 3,
+                            "slug": "more-important-application-of-ai",
+                            "name": "More Important Application of AI",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 10,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 2284,
+                            "sort_order": 4,
+                            "slug": "several-machine-learning-techniques",
+                            "name": "Several Machine Learning Techniques",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 14,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "name": "History of AI",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2285,
+                            "sort_order": 1,
+                            "slug": "history-of-ai",
+                            "name": "History of AI",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 11,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "name": "Machine Learning and Deep Learning",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2286,
+                            "sort_order": 1,
+                            "slug": "machine-learning-and-deep-learning",
+                            "name": "Machine Learning and Deep Learning",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 13,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "name": "Artificial Neural Networks",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2287,
+                            "sort_order": 1,
+                            "slug": "artificial-neural-networks",
+                            "name": "Artificial Neural Networks",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 13,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "name": "Deep Learning & Deep Neural Networks",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2288,
+                            "sort_order": 1,
+                            "slug": "deep-learning-deep-neural-networks",
+                            "name": "Deep Learning & Deep Neural Networks",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 13,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 2328,
+                            "sort_order": 2,
+                            "slug": "quiz-27",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 0,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "name": "Business Use Case #1 - Pacmann AI",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2297,
+                            "sort_order": 1,
+                            "slug": "business-use-case-1-pacmann-ai",
+                            "name": "Business Use Case #1 - Pacmann AI",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 23,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 8,
+                    "name": "Modeling & Evaluation Analysis for Business Use Case #1 - Pacmann AI",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2301,
+                            "sort_order": 1,
+                            "slug": "modeling-evaluation-analysis-for-business-use-case-1-pacmann-ai",
+                            "name": "Modeling & Evaluation Analysis for Business Use Case #1 - Pacmann AI",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 18,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 9,
+                    "name": "Business Use Case #2 - Pacmann AI",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2300,
+                            "sort_order": 1,
+                            "slug": "business-use-case-2-pacmann-ai",
+                            "name": "Business Use Case #2 - Pacmann AI",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 9,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 10,
+                    "name": "Modeling, Logistic Regression, and Evaluation for Business Use Case #2 - Pacmann AI",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2299,
+                            "sort_order": 1,
+                            "slug": "modeling-logistic-regression-and-evaluation-for-business-use-case-2-pacmann-ai",
+                            "name": "Modeling, Logistic Regression, and Evaluation for Business Use Case #2 - Pacmann AI",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 19,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 11,
+                    "name": "Quiz",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2280,
+                            "sort_order": 1,
+                            "slug": "final-quiz-50",
+                            "name": "Final Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 10,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 13,
+            "review_summary": {
+                "star_avg": 4.4615,
+                "star_5": 10,
+                "star_4": 1,
+                "star_3": 1,
+                "star_2": 0,
+                "star_1": 1
+            },
+            "total_learners": 19542,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "AI",
+                "Artificial Intelligence",
+                "Machine Learning",
+                "Deep Learning",
+                "Tech",
+                "Technology",
+                "IT",
+                "Data"
+            ]
+        },
+        {
+            "id": 1418,
+            "slug": "design-thinking-visual-elements-of-ui-design-stem-universitas-prasetiya-mulya",
+            "name": "Design Thinking - Visual Elements of UI Design - STEM Universitas Prasetiya Mulya",
+            "description": "Pemikiran desain (design thinking) telah digunakan secara luas untuk berbagai proyek, mulai dari pengembangan produk dan bisnis hingga pengembangan sumber daya manusia. Kursus ini didedikasikan untuk mengajarkan peserta cara menciptakan desain yang menarik, efektif, dan berfokus pada pengalaman pengguna yang optimal. Peserta akan memahami prinsip-prinsip desain visual yang mendasari UI yang sukses dan bagaimana menerapkannya dalam konteks praktis. Kursus ini adalah fondasi yang sempurna bagi siapa saja yang ingin menjadi seorang desainer UI yang kompeten.\r\n\r\nLearning Outcome :\r\n\"1. Memahami konsep dasar UI, termasuk prinsip desain, tata letak, dan komposisi visual.\r\n2. Belajar mengembangkan keterampilan desain visual yang mencakup pemilihan warna, tipografi, ikon, dan grafik.\r\n3. Belajar untuk menciptakan desain yang responsif yang dapat beradaptasi dengan berbagai perangkat dan ukuran layar. \"",
+            "image_cover_url": "https://s.gokampus.com/courses/1418/DWU8V0EYfu9p4O6BkkNA0ac3UVI2XPChQ6txkWRq.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/courses/1418/RXF455BaV6Wj4durMuxzMNYVMfYaJZMPbjpVqm6A.m3u8?Expires=1699419169&Signature=eb5RBwuB6BGUz-q7ICEEXcbmvEASRIygmkwdtf3qsDPUx5iMDe3TqC3LkNXkf6pfD5yWTzb-amQjMIHYejanJhcwm2uSHK4DqaSmXaWQh4~rixelDEM2-30hENzDIobLIqMugoD5meIbEMhx2PBZg0nxUSwOGeu2iRPqgGruj5t~MLxOb8fGxwJfb2sY9YpRs-KQLx4SxZwkFUYTPtPFG5oS2Qiq8Ythzk9ODBvCxk5XigirPQcgpKHPjP7zyPkN7OWsCzVGR~AXNz7Bzwj7n0iKT4a9zTkbwU6KDjWb~Z6LCSsiQjY~b6eO30qbV5ENNgH87zSpBHJoNRR0TcuDkA__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 72,
+            "has_certificate": false,
+            "original_price": 299000,
+            "discounted_price": 199000,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "stem-universitas-prasetiya-mulya",
+                "name": "STEM Universitas Prasetiya Mulya",
+                "description": "",
+                "image_url": "https://s.gokampus.com/course-institutions/3aTdRP4IGwGrcg4WYhdHB9pDdKBq84hQ4rSiGXDv.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/D4EYyCI8mv6Te1sH5uDZ5aVo0wH63IeV7gHUZFJw.png",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "creative-design",
+                "name": "Creative & Design",
+                "description": "Creative & Design",
+                "image_url": "https://s.gokampus.com/course-categories/iC2AxIgkvRCRlG9oWfDIBQf8fXMlSxKUzAgqnatL.png"
+            },
+            "skills": [
+                {
+                    "slug": "design-thinking",
+                    "name": "Design Thinking"
+                },
+                {
+                    "slug": "project-management",
+                    "name": "Project Management"
+                },
+                {
+                    "slug": "start-up",
+                    "name": "Start Up"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Pre-Design Brief",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3506,
+                            "sort_order": 1,
+                            "slug": "introduction-pre-design-brief",
+                            "name": "Introduction Pre-Design Brief",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 7,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Look and Feel",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3507,
+                            "sort_order": 1,
+                            "slug": "how-to-make-mood-board",
+                            "name": "How To Make Mood Board?",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 9,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "name": "Bahasa",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3508,
+                            "sort_order": 1,
+                            "slug": "bahasa-merepresentasikan-produk",
+                            "name": "Bahasa Merepresentasikan Produk",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 17,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "name": "Warna",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3509,
+                            "sort_order": 1,
+                            "slug": "warna-sebagai-navigasi",
+                            "name": "Warna Sebagai Navigasi",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 6,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "name": "Gambar",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3510,
+                            "sort_order": 1,
+                            "slug": "gambar-sebagai-konten",
+                            "name": "Gambar Sebagai Konten",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 18,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "name": "Icon & Symbol",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3511,
+                            "sort_order": 1,
+                            "slug": "perbedaan-icon-symbol",
+                            "name": "Perbedaan Icon & Symbol",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 9,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 1,
+            "review_summary": {
+                "star_avg": 5,
+                "star_5": 1,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 9,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Design Thinking",
+                "Project Management",
+                "Product",
+                "Startup",
+                "User Focus"
+            ]
+        },
+        {
+            "id": 1052,
+            "slug": "financial-mastery",
+            "name": "Financial Mastery",
+            "description": "Selamat datang dalam kursus \"Financial Mastery\". Apakah Anda ingin mengambil kendali penuh atas keuangan Anda dan mencapai keterampilan keuangan yang luar biasa? Kursus ini akan membawa Anda dalam perjalanan untuk memahami konsep Happy Money, mengeksplorasi Kecerdasan Keuangan dalam waktu singkat, mendalami Kecerdasan Keuangan dalam versi lengkap, dan melihat bagaimana perubahan dalam keuangan bisa memengaruhi hidup Anda dalam jangka panjang.",
+            "image_cover_url": "https://s.gokampus.com/courses/1052/HJd5UPARFz4G4xIETKe8ZO8wARBtG3fr2dq8wdiy.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/courses/1052/LVK3xCWtwSpTrOLvWa4R7BumpgWRjIYIoHy0icdC.m3u8?Expires=1699419169&Signature=gQaDmBw6GLWJMtTGCd6yuPaHdnfSXCYJ6MpKH0C4CVRNPZDq-XeXULyDJpuFsU5esnw9qzE~bbLmKRdoYlIi5za9oz9KgWGa3DMW58KAusMDxTAWqeikjVc5mn02f1HO1ffb3UFMhjrb6BzLmn1N5cWVbdo1HgrPJ1pq9mdYPdriiPRrtJFaZKuq4kXVm-Na-8H0njD1ii6bTUVUT9JrFtnwdojccPvkK4~BgkhL1Qeg8wH9u0YeL29cPq-zD7hyAALBE8z1EEyM8cT3zP5GzT4gWMCcdsK34km6hh0crCYde0XULb41dYl8xm6YXQNPPZXI3tsQY9ENr3VTI~hoHA__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 55,
+            "has_certificate": true,
+            "original_price": 199000,
+            "discounted_price": 100000,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "laruno-tung-desem-waringin",
+                "name": "Laruno - Tung Desem Waringin",
+                "description": "",
+                "image_url": "https://s.gokampus.com/course-institutions/Wn5HiLGGlGej7dhFHL0DUSCSQeUkuo58iUPX0ibY.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/s1phRlOX3V4h5UvWh4xXwSD21xTLdZRbfzd9V65K.png",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "business-entrepreneurship-2",
+                "name": "Business & Entrepreneurship",
+                "description": "Business & Entrepreneurship",
+                "image_url": "https://s.gokampus.com/course-categories/WvMsniVY7XHQgyyYnXkLiuzgO3w6ZOcwN51zmHLx.png"
+            },
+            "skills": [
+                {
+                    "slug": "business-entrepreneurship",
+                    "name": "Business & Entrepreneurship"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Happy Money",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2830,
+                            "sort_order": 1,
+                            "slug": "happy-money",
+                            "name": "Happy Money",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 11,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Kecerdasan Keuangan Dalam 5 Menit",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2831,
+                            "sort_order": 1,
+                            "slug": "kecerdasan-keuangan-dalam-5-menit",
+                            "name": "Kecerdasan Keuangan Dalam 5 Menit",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 6,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "name": "Kecerdasan Keuangan Dalam Versi Lengkap",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2832,
+                            "sort_order": 1,
+                            "slug": "kecerdasan-keuangan-dalam-versi-lengkap",
+                            "name": "Kecerdasan Keuangan Dalam Versi Lengkap",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 33,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "name": "Mantan Sekretaris Saya Dulu Kesel Dan Ini Yang Terjadi Setelah 20 Tahun",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2833,
+                            "sort_order": 1,
+                            "slug": "mantan-sekretaris-saya-dulu-kesel-dan-ini-yang-terjadi-setelah-20-tahun",
+                            "name": "Mantan Sekretaris Saya Dulu Kesel Dan Ini Yang Terjadi Setelah 20 Tahun",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 2,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 0,
+            "review_summary": {
+                "star_avg": 0,
+                "star_5": 0,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 9,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Business & Entrepreneurship"
+            ]
+        },
+        {
+            "id": 1373,
+            "slug": "the-why-of-work",
+            "name": "Perform at Work 3 - The Why of Work - TML Theocentric Motivational and Leadership",
+            "description": "Kursus ini merupakan program holistik yang ditujukan untuk profesional yang ingin menguasai berbagai aspek dalam pembentukan dan pengembangan karir mereka. Terdiri dari empat modul utama, kursus ini membantu peserta memahami esensi \"The Why of Work,\" mengaitkan hubungan erat antara kesehatan mental, fisik, dan kinerja dalam \"Work, Mind, and Body,\" menjelajahi \"3 Alternatif Pilihan\" untuk mencapai tujuan karir, dan merumuskan pemahaman yang mendalam tentang \"The Purpose of Work.\" Peserta akan diberdayakan dengan pengetahuan, keterampilan, dan wawasan yang memungkinkan mereka mencapai sukses dalam dunia kerja, menemukan makna dalam pekerjaan, serta mencapai tujuan karir yang memberi arti. Dengan fokus pada pengembangan diri dan pertumbuhan pribadi, kursus ini mempersiapkan peserta untuk menghadapi beragam tantangan dan mencapai kepuasan dalam karir mereka.\r\n\r\nLearning Outcome :\r\n- Mampu menganalisis dan mengartikulasikan motivasi individu dalam dunia karir \r\n- Mengidentifikasi hubungan antara kesehatan mental, kesehatan fisik, dan kinerja dalam lingkungan kerja\r\n- Merumuskan tujuan karir yang relevan dengan nilai dan minat pribadi mereka",
+            "image_cover_url": "https://s.gokampus.com/courses/1373/EdVsIo9nN6Qfqi3AyrmCKYGr3i3QcX10sXz0vUmn.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/courses/1373/11a2fUVFEvi6sFYIqZebgwmC9VQXIQPjUMiWRIR0.m3u8?Expires=1699419169&Signature=SRnZbWEYqPRnCpysM26qUjOqMSa9dPFF25At~kvSWFkDs7qIrDe68WDKepe4kxf3T4e1fO8C7uXAFlj6iaaOLRoHv9h2Skc7-RH-lfuj~cXtuPJUo0mc0gHYINSC5zH1sU5Y~SqY4EUSdf4pZSEIZaRExLKTRMnZB21xBXBkCoKv-18-bLpZ1LEOWAYmMSHavtmkxODotUT5bOrDJOh-jqlpoMzrpdHFRgSKxgrBUYSw1xStLv7bmmxxfvK-dKhdianIxGKed33dOUNdF-qtdj8PfahKUw7AJl0LpUzMx33b0-1R1-9OcBau09R7jKUUeDLwWtK7XsmgBStNGGPEcA__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 26,
+            "has_certificate": true,
+            "original_price": 100000,
+            "discounted_price": 49000,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "capstone-tml",
+                "name": "Capstone TML",
+                "description": "",
+                "image_url": "https://s.gokampus.com/course-institutions/9dBuxTI9v8fqOILYiKThUjGR4fu70RLm7LMwjHm6.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/B4qa6M0gblGBzaI8MUz3qXThOcx5BnjIEEQEFcyJ.png",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "personal-development",
+                "name": "Personal Development",
+                "description": "Personal Development",
+                "image_url": "https://s.gokampus.com/course-categories/qNyUHVyywz8m96fwsB3fAZyX8lu2DqI0HLVLha3n.png"
+            },
+            "skills": [
+                {
+                    "slug": "work-performance",
+                    "name": "Work Performance"
+                },
+                {
+                    "slug": "personal-development",
+                    "name": "Personal Development"
+                },
+                {
+                    "slug": "self-management",
+                    "name": "Self Management"
+                },
+                {
+                    "slug": "drive",
+                    "name": "Drive"
+                },
+                {
+                    "slug": "performance-enhancement",
+                    "name": "Performance Enhancement"
+                },
+                {
+                    "slug": "productivity",
+                    "name": "Productivity"
+                },
+                {
+                    "slug": "motivational",
+                    "name": "Motivational"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "The Why of Work",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3277,
+                            "sort_order": 1,
+                            "slug": "the-case-of-meaning-1",
+                            "name": "The Case of Meaning 1",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3302,
+                            "sort_order": 2,
+                            "slug": "quiz-101",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "How To Do It ?",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3278,
+                            "sort_order": 1,
+                            "slug": "how-to-do-it",
+                            "name": "How To Do It ?",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3303,
+                            "sort_order": 2,
+                            "slug": "quiz-102",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "name": "3 Alternatif Pilihan",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3279,
+                            "sort_order": 1,
+                            "slug": "3-alternatif-pilihan",
+                            "name": "3 Alternatif Pilihan",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 8,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3304,
+                            "sort_order": 2,
+                            "slug": "quiz-103",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "name": "The Purpose of Work",
+                    "chapter_lesson_count": 2,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3280,
+                            "sort_order": 1,
+                            "slug": "the-purpose-of-work",
+                            "name": "The Purpose of Work",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 9,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3305,
+                            "sort_order": 2,
+                            "slug": "quiz-104",
+                            "name": "Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "name": null,
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3306,
+                            "sort_order": 1,
+                            "slug": "final-quiz-29",
+                            "name": "Final Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 1,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 0,
+            "review_summary": {
+                "star_avg": 0,
+                "star_5": 0,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 23,
+            "competences": [
+                {
+                    "name": "Soft Competencies",
+                    "slug": "soft-competencies"
+                },
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Drive",
+                "Productivity",
+                "Performance Enhancement",
+                "Personal Development",
+                "Work Performance",
+                "Motivational",
+                "Self-Management"
+            ]
+        },
+        {
+            "id": 1372,
+            "slug": "microsoft-excel-advanced-digitos-classroom",
+            "name": "Microsoft Excel Advanced - Digitos ClassRoom",
+            "description": "\"Kelas online ini akan menyajikan pembelajaran yang menyeluruh dari mulai pembahasan konsep hingga panduan langkah demi langkah menggunakan berbagai tool Microsoft Excel dalam menganalisa data tabel. Peserta akan diberikan tips dan trick terbaik dalam mengolah data dan menyajikannya sebagai informasi yang mudah dipahami.\r\n\r\nDiakhir proses pembelajaran, peserta akan mampu memahami dan menguasai:\r\n- Proses pengelolaan data eksternal,\r\n- Mengubah tampilan data menggunakan Conditional Formatting,\r\n- Mengolah data menggunakan Fungsi String,\r\n- Menganalisa data menggunakan logika terbaik, dan\r\n- Merekap data menggunakan Pivot\"\r\n\r\nLearning Outcome :\r\nPeserta akan mampu memahami dan menganalisa data Microsoft Excel serta menyajikannya sebagai informasi yang mudah dipahami oleh orang lain.",
+            "image_cover_url": "https://s.gokampus.com/courses/1372/biPepTOhnEc7Qdk1PK1nulviF9IcrxEgrEx9I2dN.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/courses/1372/OBS4lLexa3fNeTXE0QZowFC4ol0VYS20fh5NYPgm.m3u8?Expires=1699419169&Signature=hoxrX7YIRu9wKxdsOh01295lKXD04iiHpZoO0CJ5TgHv5dqaF1BhUuDv-zJpR-2BbUroZkvMb8gkg51W1DomvXceV2zvBm1fzD~pMiSU5oVonThWvJgJf4hP4s2OFunk-htaMpTaCcTBXipFzKd1Fx2ArbQbCFyUeW-ysx9r1JD-lZIOnbWDuAww3oYiSeUxFtcPEIKDSmVfwK4mIfowgZu-QlkCdzABQ5smub46B0LQMno1bUmzdKuTZGtc0JKYkJG9dXExLGpTUyTEzace740lhyZoQxwGAvsjqaKaRrz-SbQEq9JZN~p6nlCA0xrcJmSl2MXWaUrNNB6APR-ZAA__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 118,
+            "has_certificate": true,
+            "original_price": 270000,
+            "discounted_price": 99000,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "digitos-classroom",
+                "name": "Digitos ClassRoom",
+                "description": "",
+                "image_url": "https://s.gokampus.com/course-institutions/uCvlpo8ZfiSnpCI1O3dwdrnfYMxSJsdl06Hloake.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "https://s.gokampus.com/course-institutions/dWnsCbJRP3ekoMh37M7kw1Niv3m8ktIg1fHZYJfI.png",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "it-tech",
+                "name": "IT & Tech",
+                "description": "IT & Tech",
+                "image_url": "https://s.gokampus.com/course-categories/1laED0ojp4CO9oQqRiFr7Q3FKlGwF8iN8e9891RN.png"
+            },
+            "skills": [
+                {
+                    "slug": "microsoft",
+                    "name": "Microsoft"
+                },
+                {
+                    "slug": "microsoft-excel",
+                    "name": "Microsoft Excel"
+                },
+                {
+                    "slug": "office-suite",
+                    "name": "Office Suite"
+                },
+                {
+                    "slug": "office-administration",
+                    "name": "Office Administration"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "External Data",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3249,
+                            "sort_order": 1,
+                            "slug": "external-data",
+                            "name": "External Data",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 19,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Conditional Formatting",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3250,
+                            "sort_order": 1,
+                            "slug": "conditional-formatting",
+                            "name": "Conditional Formatting",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 21,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "name": "String Function",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3251,
+                            "sort_order": 1,
+                            "slug": "string-function",
+                            "name": "String Function",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 26,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "name": "Values by Criteria",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3252,
+                            "sort_order": 1,
+                            "slug": "values-by-criteria",
+                            "name": "Values by Criteria",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 36,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "name": "Data Pivot",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3253,
+                            "sort_order": 1,
+                            "slug": "data-pivot",
+                            "name": "Data Pivot",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 15,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 1,
+            "review_summary": {
+                "star_avg": 5,
+                "star_5": 1,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 31,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Microsoft",
+                "Microsoft Excel",
+                "Office Suite",
+                "Office Administration"
+            ]
+        },
+        {
+            "id": 1414,
+            "slug": "apa-itu-personal-branding",
+            "name": "Belajar Fundamental Sederhana Digital Marketing",
+            "description": "Penggunaan digital marketing menjadi strategi yang penting untuk diterapkan setiap bisnis. Hal ini dikarenakan digital marketing mampu menjangkau target pasar dengan lebih akurat dengan biaya yang lebih efisien dan mudah dievaluasi. Dengan pendekatan digital marketing yang benar, mempelajari dasar-dasar digital marketing pada program ini akan membantu kita dalam meningkatkan performa bisnis atau dapat menunjang pengetahuan baru jika ingin bekerja menjadi seorang digital marketer.\r\n\r\nLearning Outcome :\r\n\"1. Memahami konsep digital marketing\r\n2. Memahami produk dan target audiens\r\n3. Mampu memilih channel digital marketing sesuai dengan tujuan\"",
+            "image_cover_url": "https://s.gokampus.com/courses/1414/aEDwZDOUrHKySNG0zQ5I4xMYyfSph95afOfm3FHT.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/courses/1414/TEHmSv521OUKIYSEshBrhPgxKdH8y3NGS66vCZrG.m3u8?Expires=1699419169&Signature=nYqUMdH5yDMIrGGC2E0sCm~rZFhVK6RxLONWf0ADyoprYnpKPsbcUDSR7A9abPbSWduMorjdhZMONHruu8h4uvtnl4FF8bFjGyaDyEgxRulhihdrhcDbFeswTme7jSt~gRZYqZjrM16Q0QReKjyqvn8MIQ8gnSSfXHDjSCh0SJihNkh1gOZX80m5-5oWpBcqCdsfms9kBRDqze0TWxmtW2BY193tnq~VLkDBJjzIhIF9MeV8P5u~MmncYQlJ0RqUF5PUmh6NvX9BrXgtXWjcmsevSirlCw6rkM4JZOPmGI4RzYffj4bOhI0MVLJkcaXK1Gn6cr6dv1n4D1wAbZmGuw__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 54,
+            "has_certificate": true,
+            "original_price": 49000,
+            "discounted_price": 150000,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "kariermu",
+                "name": "Kariermu",
+                "description": "",
+                "image_url": "https://s.gokampus.com/course-institutions/5h3Cn9n01h4YdfJo0FX1mYolCNEFFnIvi1yMAMd3.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "sales-marketing",
+                "name": "Sales & Marketing",
+                "description": "Sales & Marketing",
+                "image_url": "https://s.gokampus.com/course-categories/vrUBqZ5dZT6wuRTvug3ZPpFDz9QwAHRghdlf6h4d.png"
+            },
+            "skills": [
+                {
+                    "slug": "personal-development",
+                    "name": "Personal Development"
+                },
+                {
+                    "slug": "performance-branding",
+                    "name": "Performance & Branding"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Apa Itu Digital Marketing?",
+                    "chapter_lesson_count": 6,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3457,
+                            "sort_order": 1,
+                            "slug": "pengantar-program-dan-role-marketing",
+                            "name": "Pengantar Program dan Role Marketing",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 2,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3458,
+                            "sort_order": 2,
+                            "slug": "apa-itu-digital-marketing",
+                            "name": "Apa itu Digital Marketing?",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 6,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        },
+                        {
+                            "id": 3459,
+                            "sort_order": 3,
+                            "slug": "tipe-tipe-digital-marketing",
+                            "name": "Tipe-Tipe Digital Marketing",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 8,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3525,
+                            "sort_order": 4,
+                            "slug": "organic-vs-paid",
+                            "name": "Organic vs Paid",
+                            "description": null,
+                            "type": "PDF",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3460,
+                            "sort_order": 5,
+                            "slug": "melakukan-digital-marketing-secara-umum",
+                            "name": "Melakukan Digital Marketing secara Umum",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 2,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3526,
+                            "sort_order": 6,
+                            "slug": "quiz-apa-itu-digital-marketing",
+                            "name": "Quiz : Apa Itu Digital Marketing",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Pahami Produk dan Pelanggan",
+                    "chapter_lesson_count": 4,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3461,
+                            "sort_order": 1,
+                            "slug": "persona-target-audience",
+                            "name": "Persona Target Audience",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 3,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3462,
+                            "sort_order": 2,
+                            "slug": "marketing-funnel",
+                            "name": "Marketing Funnel",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 2,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3463,
+                            "sort_order": 3,
+                            "slug": "pahami-produkmu",
+                            "name": "Pahami Produkmu",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 2,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3527,
+                            "sort_order": 4,
+                            "slug": "quiz-memahami-produk-dan-pelanggan",
+                            "name": "Quiz : Memahami Produk dan Pelanggan",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "name": "Channel Digital Marketing Organic",
+                    "chapter_lesson_count": 4,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3464,
+                            "sort_order": 1,
+                            "slug": "seo-2",
+                            "name": "SEO",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 3,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3465,
+                            "sort_order": 2,
+                            "slug": "media-social-organic",
+                            "name": "Media Social Organic",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 3,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3468,
+                            "sort_order": 3,
+                            "slug": "email-marketing",
+                            "name": "Email Marketing",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3528,
+                            "sort_order": 4,
+                            "slug": "quiz-channel-digital-marketing-organic",
+                            "name": "Quiz : Channel Digital Marketing Organic",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "name": "Channel Digital Marketing Paid",
+                    "chapter_lesson_count": 3,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3469,
+                            "sort_order": 1,
+                            "slug": "facebook-dan-instagram-ads",
+                            "name": "Facebook dan Instagram Ads",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 6,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3470,
+                            "sort_order": 2,
+                            "slug": "google-ads",
+                            "name": "Google Ads",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 6,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3529,
+                            "sort_order": 3,
+                            "slug": "quiz-channel-digital-marketing-paid",
+                            "name": "Quiz : Channel Digital Marketing Paid",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "name": "Tips Menjalankan Campaign",
+                    "chapter_lesson_count": 4,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3471,
+                            "sort_order": 1,
+                            "slug": "tips-menjalankan-campaign",
+                            "name": "Tips Menjalankan Campaign",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 2,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3472,
+                            "sort_order": 2,
+                            "slug": "study-kasus-digital-marketing",
+                            "name": "Study Kasus Digital Marketing",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3473,
+                            "sort_order": 3,
+                            "slug": "kamus-umum-digital-marketing",
+                            "name": "Kamus Umum Digital Marketing",
+                            "description": null,
+                            "type": "PDF",
+                            "duration": 0,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        },
+                        {
+                            "id": 3530,
+                            "sort_order": 4,
+                            "slug": "quiz-tips-menjalankan-campaign",
+                            "name": "Quiz : Tips Menjalankan Campaign",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "name": "Penutup Program",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3474,
+                            "sort_order": 1,
+                            "slug": "rangkuman-program-dasar-digital-marketing",
+                            "name": "Rangkuman Program Dasar Digital Marketing",
+                            "description": null,
+                            "type": "PDF",
+                            "duration": 0,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "name": "Post Test & Kuis - Belajar Fundamental Sederhana Digital Marketing",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3531,
+                            "sort_order": 1,
+                            "slug": "post-test-kuis-belajar-fundamental-sederhana-digital-marketing",
+                            "name": "Post Test & Kuis - Belajar Fundamental Sederhana Digital Marketing",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 15,
+                            "content_url": null,
+                            "is_free": false,
+                            "is_premium": true
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 0,
+            "review_summary": {
+                "star_avg": 0,
+                "star_5": 0,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 13,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Personal Development",
+                "Branding"
+            ]
+        },
+        {
+            "id": 1424,
+            "slug": "lesson-learned-cukup-mampu-mau",
+            "name": "Lesson Learned: Cukup, Mampu, Mau",
+            "description": "Greatmind adalah media yang mengeksplorasi pemikiran para influencer tentang ide, aspirasi, dan advokasi mereka terhadap berbagai topik kehidupan.\r\nCek lebih lanjut di www.greatmind.id, Instagram @greatmind.id, dan Youtube @GreatmindIndonesia\r\n\r\nKursus ini adalah perjalanan pribadi dan profesional yang bertujuan untuk membantu peserta mencapai potensi maksimal mereka dalam berbagai aspek kehidupan. Kursus ini didesain untuk membimbing peserta dalam mengenali, mengembangkan, dan mengoptimalkan keterampilan dan sumber daya mereka untuk mencapai tujuan mereka. Peserta akan belajar bagaimana menjadi diri yang lebih percaya diri, berdaya, dan berkomitmen untuk mewujudkan impian dan ambisi mereka.\r\n\r\nLearning Outcome :\r\n\"1. Belajar mendalami pemahaman diri, mengidentifikasi kekuatan dan potensi mereka, serta mengenali bidang di mana mereka ingin berkembang.\r\n2. Membantu Anda mengembangkan keterampilan yang diperlukan dalam pekerjaan, hubungan, dan kehidupan pribadi, termasuk komunikasi, manajemen waktu, kepemimpinan, dan lainnya.\r\n3. Membahas teknik dan strategi untuk memotivasi diri sendiri, mengatasi tantangan, dan tetap fokus pada tujuan.\"",
+            "image_cover_url": "https://s.gokampus.com/courses/1424/xXKezMvP5BaV7BA6z4PrwqakagMT6ikGtVVchSy2.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/courses/1424/eeUdZZmLmeB4G0148ECnJGMnIPIbTNMNnGqiLQzd.mp4?Expires=1699419169&Signature=DYvPcVUXR2I7AUOC5kuydwMvMbpyT2gRoo9Nb4myP7Hf6HdPrd~R3deg7J8lU-a5FpT1LBfkphdZaTH1h4PhMuQ9qaKRnMt7OSvOwPqPf2oEQigvv7OAFWDnDl9Lr3gR3GVsglG4Ve2lBOdr~rJBdaRKjop9T7gm-DB-b4ap1EplcKSeW~THOL4klcBbkGMoOu0Ma2MiV9EFoXk9MXTG-gZ7szpBW8SQi4enQR8PNfBj~DAIY6KV-jac7K8e7PyVlJ-vs9eAHz7aORWYJ3fdJru6MbWESuLTj~KPa1p5dcxOirO1ASLzdH95bSKeyWOgyE4vEvGirGgB98DALOO9mw__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 6,
+            "has_certificate": false,
+            "original_price": 490000,
+            "discounted_price": 0,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "greatmind",
+                "name": "Greatmind",
+                "description": "",
+                "image_url": "https://s.gokampus.com/course-institutions/KyOVE3IyrP4IRQEn3OFfltsvcmTDNDW0d7URaF4y.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "personal-development",
+                "name": "Personal Development",
+                "description": "Personal Development",
+                "image_url": "https://s.gokampus.com/course-categories/qNyUHVyywz8m96fwsB3fAZyX8lu2DqI0HLVLha3n.png"
+            },
+            "skills": [
+                {
+                    "slug": "mental-health",
+                    "name": "Mental Health"
+                },
+                {
+                    "slug": "personal-development",
+                    "name": "Personal Development"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Lesson Learned",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3539,
+                            "sort_order": 1,
+                            "slug": "cukup-mampu-mau",
+                            "name": "Cukup, Mampu, Mau",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 6,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Penilaian",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3588,
+                            "sort_order": 1,
+                            "slug": "final-quiz-99",
+                            "name": "Final Quiz",
+                            "description": null,
+                            "type": "Quiz",
+                            "duration": 2,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 0,
+            "review_summary": {
+                "star_avg": 0,
+                "star_5": 0,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 4,
+            "competences": [
+                {
+                    "name": "Soft Competencies",
+                    "slug": "soft-competencies"
+                },
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Mental health",
+                "Personal Development"
+            ]
+        },
+        {
+            "id": 1075,
+            "slug": "dasar-dasar-penyuntingan-di-wikipedia-3-praktik-penyuntingan-dasar-di-wikipedia",
+            "name": "Dasar-dasar Penyuntingan di Wikipedia 3 - Praktik penyuntingan dasar di Wikipedia",
+            "description": "Kursus daring ini meliputi beberapa aktivitas, di antaranya menonton materi dalam bentuk video pembelajaran, membaca materi dalam bentuk dokumen (PDF), mengerjakan kuis, serta menulis dan menyunting artikel di Wikipedia sesuai ketentuan. Materi kursus ini terbagi dalam 3 (tiga) bagian, yaitu pengantar, pedoman dan kebijakan di Wikipedia, serta panduan praktik penyuntingan dasar di Wikipedia.Materi kursus ini terbagi dalam 3 (tiga) bagian, yaitu pengantar, pedoman dan kebijakan di Wikipedia, serta panduan praktik penyuntingan dasar di Wikipedia.\r\n\r\nDi bagian 3, kita akan praktik membuat artikel sederhana (artikel rintisan) di Wikipedia, dimulai dari membuat akun pengguna, halaman pengguna, halaman artikel baru, serta menambahkan kategori di Wikipedia.\r\n\r\nSegala pertanyaan mengenai kursus ini dapat dilayangkan kepada tim Pendidikan Wikimedia Indonesia melalui surel pendidikan@wikimedia.or.id.\r\n\r\nLearning Outcome :\r\nDapat membuat artikel sederhana (artikel rintisan) di Wikipedia, dimulai dari membuat akun pengguna, halaman pengguna, halaman artikel baru, serta menambahkan kategori di Wikipedia.",
+            "image_cover_url": "https://s.gokampus.com/courses/1075/LKiLrQ85vPapCMpgYHchuq7EGYXdu67BbhlEJVpJ.png",
+            "video_trailer_url": "",
+            "bootcamp_image_url": "",
+            "hover_content_url": "https://d30omenoaw6852.cloudfront.net/opt/courses/1075/jY2gU1A2PrizQNjE9659ceIwPDLAKfl4jiWSqD6h.m3u8?Expires=1699419169&Signature=wY8vau1AtdHGRoGhd~zxQ2yH4mppqSYt7jpt-ycQ2edQM1xVV-aA6~SZotJOGf-Z49L5OQhMqL1RKINjteqXwR3m8XFKMdawSzzEO7PN-pL5lhpmNDQQZ7MYUZRFA~~9KhZZMUqRaa0LLQknV8O9eNtxaDXHUmITZNErHYLoLMfufl9aKLYwUHYpF-oWIi8iD7c9wJoUHOE2xxmL6faW8y4gnAvnyrZUBA7UK34ggwpT8vo1H7jr8LhnRA890MpRJQ4XxMMhlmxv2VeO~neQS9eY4aqyumvqXMVgJI-yXRwSMsPEIdw4-91RA3hMjhumA8yp2fWOc69Lr0vInviZBA__&Key-Pair-Id=K1IBGDM6I070X7",
+            "duration": 36,
+            "has_certificate": false,
+            "original_price": 99000,
+            "discounted_price": 0,
+            "course_last_lesson_slug": "",
+            "institution": {
+                "slug": "wikimedia-indonesia",
+                "name": "Wikimedia Indonesia",
+                "description": "",
+                "image_url": "https://s.gokampus.com/course-institutions/bGMnJObr82UWwL6CjH2QFvyiCQvVvxzutIuRkC5U.png",
+                "certificate_background_image_url": "",
+                "certificate_sample_image_url": "",
+                "total_courses": 0,
+                "total_learners": 0,
+                "is_business": false
+            },
+            "category": {
+                "slug": "it-tech",
+                "name": "IT & Tech",
+                "description": "IT & Tech",
+                "image_url": "https://s.gokampus.com/course-categories/1laED0ojp4CO9oQqRiFr7Q3FKlGwF8iN8e9891RN.png"
+            },
+            "skills": [
+                {
+                    "slug": "literature",
+                    "name": "Literature"
+                },
+                {
+                    "slug": "digital-literature",
+                    "name": "Digital Literature"
+                },
+                {
+                    "slug": "encyclopedia",
+                    "name": "Encyclopedia"
+                },
+                {
+                    "slug": "content-writing",
+                    "name": "Content Writing"
+                },
+                {
+                    "slug": "wikipedia",
+                    "name": "Wikipedia"
+                }
+            ],
+            "chapters": [
+                {
+                    "number": 1,
+                    "name": "Membuat Akun Di Wikipedia",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2944,
+                            "sort_order": 1,
+                            "slug": "membuat-akun-di-wikipedia",
+                            "name": "Membuat akun di Wikipedia",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 7,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "name": "Membuat Halaman Pengguna Di Wikipedia",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2945,
+                            "sort_order": 1,
+                            "slug": "membuat-halaman-pengguna-di-wikipedia",
+                            "name": "Membuat halaman pengguna di Wikipedia",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 9,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "name": "Membuat Artikel Baru Di Wikipedia",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2946,
+                            "sort_order": 1,
+                            "slug": "membuat-artikel-baru-di-wikipedia",
+                            "name": "Membuat artikel baru di Wikipedia",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 13,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "name": "Menambahkan Kategori Di Wikipedia",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 2948,
+                            "sort_order": 1,
+                            "slug": "menambahkan-kategori-di-wikipedia",
+                            "name": "Menambahkan kategori di Wikipedia",
+                            "description": null,
+                            "type": "Video",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "name": "Quiz",
+                    "chapter_lesson_count": 1,
+                    "chapter_lesson_done": 0,
+                    "is_chapter_done": false,
+                    "lessons": [
+                        {
+                            "id": 3456,
+                            "sort_order": 1,
+                            "slug": "survei-pasca-wikilatih-2",
+                            "name": "Survei Pasca-WikiLatih",
+                            "description": "Survei Pasca-WikiLatih",
+                            "type": "Article",
+                            "duration": 5,
+                            "content_url": null,
+                            "is_free": true,
+                            "is_premium": false
+                        }
+                    ]
+                }
+            ],
+            "user_review": null,
+            "total_review": 0,
+            "review_summary": {
+                "star_avg": 0,
+                "star_5": 0,
+                "star_4": 0,
+                "star_3": 0,
+                "star_2": 0,
+                "star_1": 0
+            },
+            "total_learners": 8,
+            "competences": [
+                {
+                    "name": "Latest Industry Trends",
+                    "slug": "trending"
+                }
+            ],
+            "tags": [
+                "Literature",
+                "Digital Literature",
+                "Encyclopedia",
+                "Content Writing",
+                "Wikipedia"
+            ]
+        }
+    ]
+}

@@ -8,12 +8,13 @@
                     <span class="tittlePreview">Digital Marketing:</span>
                     <span class="aboutTittle">Mengenal dunia Marketing</span>
                 </div>
-                <div class="descTittle">Kurikulum ini adalah solusi untuk Anda yang ingin memulai belajar digital marketing.
+                <div class="descTittle">Kurikulum ini adalah solusi untuk Anda yang ingin memulai belajar digital
+                    marketing.
                 </div>
                 <div class="d-flex gap-3 align-items-center">
                     <div class="institutionContainer">
                         <img src="{{ asset('images/institution.png') }}" alt="institution"
-                            style="width: 70%; height:70%; transform: translateY(3px);">
+                             style="width: 70%; height:70%; transform: translateY(3px);">
                     </div>
                     <span class="institutionName">Verde Two</span>
                 </div>
@@ -28,13 +29,13 @@
             <div class="d-flex flex-column tittleContainer">
                 <div class="d-flex justify-content-between align-items-baseline tittleTop">
                     <div class="tittle d-flex gap-3 align-items-end">
-                        <h3>Kumpulan Program khusus special</h3>
+                        <h3>Kumpulan Program Khusus Spesial</h3>
                         <div class="clockImage">
                             <img src="{{ asset('images/clock.png') }}" alt="playButton" style="width: 100%">
                         </div>
                     </div>
                     <div class="d-flex gap-3 exploreContainer">
-                        <p class="exploreText">Explore Courses</p>
+                        <p class="exploreText">Lihat Semua</p>
                         <div class="exploreArrow">
                             <img src="{{ asset('images/arrow.png') }}" alt="playButton" style="width: 100%;">
                         </div>
@@ -44,13 +45,30 @@
             </div>
             <div class="d-flex gap-5 flex-column">
                 <div class="gap-4 highlightContainer">
-                    <div class="highlightCard" style="width: 100%;">
-                        <x-card containerWidth="100%" containerHeight="100%"
-                            tittle="Digital Marketing 101: Sosial Media Marketing" size="796x196" height="196px" />
+                    <div class="highlightCard w-100">
+                        <x-card containerWidth="100%"
+                                containerHeight="100%"
+                                title="{{ \Str::limit($recommendedCourses->first()['name'], 50) }}"
+                                institutionName="{{ $recommendedCourses->first()['institution']['name'] }}"
+                                institutionImg="{{ $recommendedCourses->first()['institution']['image_url'] }}"
+                                category="{{ $recommendedCourses->first()['category']['name'] }}"
+                                imgCoverUrl="{{ $recommendedCourses->first()['image_cover_url'] }}"
+                                totalLessons="{{ $recommendedCourses->first()['total_lessons'] }}"
+                                size="796x196"
+                                height="196px"
+                        />
                     </div>
                     <div class="highlightSecond highlightCard">
-                        <x-card containerWidth="100%" containerHeight="100%"
-                            tittle="UI/UX Design: Membuat Wireframe di Figma" size="380x196" height="196px" />
+                        <x-card containerWidth="100%"
+                                containerHeight="100%"
+                                title="{{ \Str::limit($recommendedCourses->last()['name'], 50)  }}"
+                                institutionName="{{ $recommendedCourses->last()['institution']['name'] }}"
+                                institutionImg="{{ $recommendedCourses->last()['institution']['image_url'] }}"
+                                category="{!! $recommendedCourses->last()['category']['name'] !!}"
+                                imgCoverUrl="{{ $recommendedCourses->last()['image_cover_url'] }}"
+                                totalLessons="{{ $recommendedCourses->last()['total_lessons'] }}"
+                                size="380x196"
+                                height="196px"/>
                     </div>
                 </div>
                 <div class="highlightSliderContainer">
@@ -58,24 +76,27 @@
                         <!-- Slides -->
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <div class="highlightCard" style="width: 100%;">
-                                    <x-card containerWidth="100%" containerHeight="100%"
-                                        tittle="Digital Marketing 101: Sosial Media Marketing" size="796x196"
-                                        height="196px" />
+                                <div class="highlightCard w-100">
+                                    <x-card containerWidth="100%"
+                                            containerHeight="100%"
+                                            title="Digital Marketing 101: Sosial Media Marketing" size="796x196"
+                                            height="196px"/>
                                 </div>
                             </div>
                             <div class="carousel-item">
-                                <div class="highlightCard" style="width: 100%;">
-                                    <x-card containerWidth="100%" containerHeight="100%"
-                                        tittle="Digital Marketing 101: Sosial Media Marketing" size="796x196"
-                                        height="196px" />
+                                <div class="highlightCard w-100">
+                                    <x-card containerWidth="100%"
+                                            containerHeight="100%"
+                                            title="Digital Marketing 101: Sosial Media Marketing" size="796x196"
+                                            height="196px"/>
                                 </div>
                             </div>
                             <div class="carousel-item">
-                                <div class="highlightCard" style="width: 100%;">
-                                    <x-card containerWidth="100%" containerHeight="100%"
-                                        tittle="Digital Marketing 101: Sosial Media Marketing" size="796x196"
-                                        height="196px" />
+                                <div class="highlightCard w-100">
+                                    <x-card containerWidth="100%"
+                                            containerHeight="100%"
+                                            title="Digital Marketing 101: Sosial Media Marketing" size="796x196"
+                                            height="196px"/>
                                 </div>
                             </div>
                         </div>
@@ -93,72 +114,42 @@
                 <div id="contentCarousel" class="carousel slide" data-bs-ride="carousel">
                     <!-- Slides -->
                     <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <div class="d-flex flex-wrap justify-content-center carouselItemContainer">
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                </div>
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                </div>
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                </div>
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="d-flex flex-wrap justify-content-center carouselItemContainer">
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                </div>
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                </div>
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                </div>
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                        @foreach($chunkedCourses as $chunk)
+                            <div class="carousel-item {{ $loop->first ? 'active' : '' }}">
+                                <div class="d-flex flex-wrap justify-content-center carouselItemContainer">
+                                    @foreach($chunk as $course)
+                                        <div>
+                                            <x-card-small
+                                                title="{{ \Str::limit($course['name'], 50) }}"
+                                                imgCoverUrl="{{ $course['image_cover_url'] }}"
+                                                institutionName="{{ $course['institution']['name'] }}"
+                                                institutionImg="{{ $course['institution']['image_url'] }}"
+                                                category="{!! $course['category']['name'] !!}"
+                                                totalLessons="{{ $course['total_lessons'] }}"
+                                                size="284x146"
+                                            />
+                                        </div>
+                                    @endforeach
                                 </div>
                             </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="d-flex flex-wrap justify-content-center carouselItemContainer">
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                </div>
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                </div>
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                </div>
-                                <div>
-                                    <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Add more carousel-item entries for additional content slides -->
+                        @endforeach
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#contentCarousel"
-                        data-bs-slide="prev">
+                            data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <img src="{{ asset('images/prevArrow.png') }}" alt="arrowSlide" class="prevArrow">
                     </button>
                     <button class="carousel-control-next" type="button" data-bs-target="#contentCarousel"
-                        data-bs-slide="next">
+                            data-bs-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <img src="{{ asset('images/nextArrow.png') }}" alt="arrowSlide" class="nextArrow">
                     </button>
                     <ul class="carousel-indicators">
-                        <li data-bs-target="#contentCarousel" data-bs-slide-to="0" class="active"></li>
-                        <li data-bs-target="#contentCarousel" data-bs-slide-to="1"></li>
-                        <li data-bs-target="#contentCarousel" data-bs-slide-to="2"></li>
+                        @foreach($chunkedCourses as $key => $chunk)
+                            <li data-bs-target="#contentCarousel" data-bs-slide-to="{{ $key }}"
+                                class="{{ $loop->first ? 'active' : '' }}"></li>
+                        @endforeach
                     </ul>
-
                 </div>
             </div>
         </div>
@@ -168,52 +159,53 @@
                 <div class="d-flex flex-column">
                     <div class="d-flex justify-content-between align-items-baseline tittleContainer">
                         <div class="tittle d-flex gap-3 align-items-end">
-                            <h3>belajar dari partner maxy yuk</h3>
+                            <h3>Belajar Dari Partner Maxy Yuk</h3>
                             <div style="width: 78px; height: 78px;" class="komputer">
                                 <img src="{{ asset('images/komputer.png') }}" alt="playButton">
                             </div>
                         </div>
                         <div class="d-flex gap-3 exploreContainer">
-                            <p class="exploreText">Explore Courses</p>
-                            <div style="width: 19px; height: 19px;">
-                                <img src="{{ asset('images/arrow.png') }}" alt="playButton">
+                            <p class="exploreText">Lihat Semua</p>
+                            <div class="exploreArrow">
+                                <img src="{{ asset('images/arrow.png') }}" class="w-100" alt="playButton">
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="carouselDeksScreen">
+                <div class="carouselDeskScreen">
                     <div class="d-flex flex-wrap justify-content-between">
-                        <div>
-                            <x-cardPartner image="{{ asset('images/institution.png') }}" text="Digital Marketing" />
-                        </div>
-                        <div>
-                            <x-cardPartner image="{{ asset('images/institution.png') }}" text="Digital Marketing" />
-                        </div>
-                        <div>
-                            <x-cardPartner image="{{ asset('images/institution.png') }}" text="Digital Marketing" />
-                        </div>
-                        <div>
-                            <x-cardPartner image="{{ asset('images/institution.png') }}" text="Digital Marketing" />
-                        </div>
-                        <div>
-                            <x-cardPartner image="{{ asset('images/institution.png') }}" text="Digital Marketing" />
-                        </div>
-                        <div>
-                            <x-cardPartner image="{{ asset('images/institution.png') }}" text="Digital Marketing" />
-                        </div>
+                        @foreach($institutions->take(6) as $institution)
+                            <div>
+                                <x-card-partner
+                                    image="{{ $institution['image_url'] ?? asset('images/institution.png') }}"
+                                    text="{{ $institution['name'] }}"
+                                />
+                            </div>
+                        @endforeach
                     </div>
                 </div>
                 <div class="carouselMobileScreen">
                     <div class="d-flex flex-wrap justify-content-between">
-                        <div>
-                            <x-cardPartner image="{{ asset('images/institution.png') }}" text="Digital Marketing" />
-                        </div>
-                        <div>
-                            <x-cardPartner image="{{ asset('images/institution.png') }}" text="Digital Marketing" />
-                        </div>
-                        <div>
-                            <x-cardPartner image="{{ asset('images/institution.png') }}" text="Digital Marketing" />
-                        </div>
+                        @foreach($institutions->take(3) as $institution)
+                            <div>
+                                <x-card-partner
+                                    image="{{ $institution['image_url'] ?? asset('images/institution.png') }}"
+                                    text="{{ $institution['name'] }}"
+                                />
+                            </div>
+                            <div>
+                                <x-card-partner
+                                    image="{{ $institution['image_url'] ?? asset('images/institution.png') }}"
+                                    text="{{ $institution['name'] }}"
+                                />
+                            </div>
+                            <div>
+                                <x-card-partner
+                                    image="{{ $institution['image_url'] ?? asset('images/institution.png') }}"
+                                    text="{{ $institution['name'] }}"
+                                />
+                            </div>
+                        @endforeach
                     </div>
                 </div>
             </div>
@@ -228,9 +220,9 @@
                                 <h3>Kursus Populer</h3>
                             </div>
                             <div class="d-flex gap-3 exploreContainer">
-                                <p class="exploreText">Lihat semua</p>
-                                <div style="width: 19px; height: 19px;">
-                                    <img src="{{ asset('images/arrow.png') }}" alt="playButton">
+                                <p class="exploreText">Lihat Semua</p>
+                                <div class="exploreArrow">
+                                    <img src="{{ asset('images/arrow.png') }}" class="w-100" alt="playButton">
                                 </div>
                             </div>
                         </div>
@@ -239,86 +231,40 @@
                     <div id="contentCarousel2" class="carousel slide" data-bs-ride="carousel" data-interval="false">
                         <!-- Slides -->
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <div class="d-flex justify-content-between carouselItemContainer4">
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="d-flex justify-content-between carouselItemContainer4">
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                            @foreach($popularCourses->chunk(4) as $chunk)
+                                <div class="carousel-item {{ $loop->first ? 'active' : '' }}">
+                                    <div
+                                        class="d-flex {{ count($chunk) > 3 ? 'justify-content-between' : 'justify-content-center' }} carouselItemContainer4">
+                                        @foreach($chunk as $course)
+                                            <x-card-small
+                                                class="{{ count($chunk) > 3 ? 'mr-4' : '' }}"
+                                                imgCoverUrl="{{ $course['image_cover_url'] }}"
+                                                title="{{ $course['name'] }}"
+                                                totalLessons="{{ $course['total_lessons'] }}"
+                                                institutionName="{{ $course['institution']['name'] }}"
+                                                institutionImg="{{ $course['institution']['image_url'] }}"
+                                                size="284x146"
+                                            />
+                                        @endforeach
                                     </div>
                                 </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="d-flex justify-content-between carouselItemContainer4">
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Add more carousel-item entries for additional content slides -->
+                            @endforeach
                         </div>
                         <ul class="carousel-indicators">
-                            <li data-bs-target="#contentCarousel2" data-bs-slide-to="0" class="active"></li>
-                            <li data-bs-target="#contentCarousel2" data-bs-slide-to="1"></li>
-                            <li data-bs-target="#contentCarousel2" data-bs-slide-to="2"></li>
+                            @foreach($popularCourses->chunk(4) as $key => $chunk)
+                                <li data-bs-target="#contentCarousel2" data-bs-slide-to="{{ $key }}"
+                                    class="{{ $loop->first ? 'active' : '' }}"></li>
+                            @endforeach
                         </ul>
                     </div>
                     {{-- slider for mobile screen --}}
-                    <div class="popularCourseContainer">
+                    <div class="d-lg-none">
                         <div class="d-flex justify-content-between overflow-x-scroll gap-3">
-                            <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                            </div>
-                            <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                            </div>
-                            <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                            </div>
-                            <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                            </div>
-                            <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                            </div>
-                            <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                            </div>
-                            <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                            </div>
+                            @foreach($popularCourses->take(6) as $course)
+                                <div>
+                                    <x-card-small title="{{ $course['name'] }}" size="284x146"/>
+                                </div>
+                            @endforeach
                         </div>
                     </div>
                 </div>
@@ -332,7 +278,7 @@
                                 <h3>IT &Tech</h3>
                             </div>
                             <div class="d-flex gap-3 exploreContainer">
-                                <p class="exploreText">Lihat semua</p>
+                                <p class="exploreText">Lihat Semua</p>
                                 <div style="width: 19px; height: 19px;">
                                     <img src="{{ asset('images/arrow.png') }}" alt="arrow">
                                 </div>
@@ -342,84 +288,59 @@
                     <div id="contentCarousel3" class="carousel slide" data-bs-ride="carousel" data-interval="false">
                         <!-- Slides -->
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <div class="d-flex justify-content-between carouselItemContainer4">
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="d-flex justify-content-between carouselItemContainer4">
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                            @forelse($ITCourses as $chunk)
+                                <div class="carousel-item {{ $loop->first ? 'active' : '' }}">
+                                    <div class="d-flex justify-content-between carouselItemContainer4">
+                                        @foreach($chunk as $course)
+                                            <div>
+                                                <x-card-small
+                                                    title="{{ $course['name'] }}"
+                                                    imgCoverUrl="{{ $course['image_cover_url'] }}"
+                                                    institutionName="{{ $course['institution']['name'] }}"
+                                                    institutionImg="{{ $course['institution']['image_url'] }}"
+                                                    category="{!! $course['category']['name'] !!}"
+                                                    totalLessons="{{ $course['total_lessons'] }}"
+                                                    size="284x146"
+                                                />
+                                            </div>
+                                        @endforeach
                                     </div>
                                 </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="d-flex justify-content-between carouselItemContainer4">
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
+                            @empty
+                                <div>
+                                    <h3>No Course</h3>
                                 </div>
-                            </div>
-                            <!-- Add more carousel-item entries for additional content slides -->
+                            @endforelse
                         </div>
                         <ul class="carousel-indicators">
-                            <li data-bs-target="#contentCarousel3" data-bs-slide-to="0" class="active"></li>
-                            <li data-bs-target="#contentCarousel3" data-bs-slide-to="1"></li>
-                            <li data-bs-target="#contentCarousel3" data-bs-slide-to="2"></li>
+                            @foreach($ITCourses as $key => $chunk)
+                                <li data-bs-target="#contentCarousel3" data-bs-slide-to="{{ $key }}"
+                                    class="{{ $loop->first ? 'active' : '' }}"></li>
+                            @endforeach
                         </ul>
                     </div>
                     <div class="popularCourseContainer">
                         <div class="d-flex justify-content-between overflow-x-scroll gap-3">
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                         </div>
                     </div>
@@ -432,7 +353,7 @@
                                 <h3>Business & Entrepreneurship </h3>
                             </div>
                             <div class="d-flex gap-3 exploreContainer">
-                                <p class="exploreText">Lihat semua</p>
+                                <p class="exploreText">Lihat Semua</p>
                                 <div style="width: 19px; height: 19px;">
                                     <img src="{{ asset('images/arrow.png') }}" alt="playButton">
                                 </div>
@@ -442,84 +363,59 @@
                     <div id="contentCarousel4" class="carousel slide" data-bs-ride="carousel" data-interval="false">
                         <!-- Slides -->
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <div class="d-flex justify-content-between carouselItemContainer4">
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="d-flex justify-content-between carouselItemContainer4">
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                            @forelse($businessCourses as $chunk)
+                                <div class="carousel-item {{ $loop->first ? 'active' : '' }}">
+                                    <div class="d-flex justify-content-between carouselItemContainer4">
+                                        @foreach($chunk as $course)
+                                            <div>
+                                                <x-card-small
+                                                    title="{{ $course['name'] }}"
+                                                    imgCoverUrl="{{ $course['image_cover_url'] }}"
+                                                    institutionName="{{ $course['institution']['name'] }}"
+                                                    institutionImg="{{ $course['institution']['image_url'] }}"
+                                                    category="{!! $course['category']['name'] !!}"
+                                                    totalLessons="{{ $course['total_lessons'] }}"
+                                                    size="284x146"
+                                                />
+                                            </div>
+                                        @endforeach
                                     </div>
                                 </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="d-flex justify-content-between carouselItemContainer4">
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
-                                    <div>
-                                        <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
-                                    </div>
+                            @empty
+                                <div>
+                                    <h3>No Course</h3>
                                 </div>
-                            </div>
-                            <!-- Add more carousel-item entries for additional content slides -->
+                            @endforelse
                         </div>
                         <ul class="carousel-indicators">
-                            <li data-bs-target="#contentCarousel4" data-bs-slide-to="0" class="active"></li>
-                            <li data-bs-target="#contentCarousel4" data-bs-slide-to="1"></li>
-                            <li data-bs-target="#contentCarousel4" data-bs-slide-to="2"></li>
+                            @foreach($businessCourses as $key => $chunk)
+                                <li data-bs-target="#contentCarousel4" data-bs-slide-to="{{ $key }}"
+                                    class="{{ $loop->first ? 'active' : '' }}"></li>
+                            @endforeach
                         </ul>
                     </div>
                     <div class="popularCourseContainer">
                         <div class="d-flex justify-content-between overflow-x-scroll gap-3">
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                             <div>
-                                <x-cardSmallest tittle="Frontend: Membuat website dasar css" size="284x146" />
+                                <x-card-small title="Frontend: Membuat website dasar css" size="284x146"/>
                             </div>
                         </div>
                     </div>

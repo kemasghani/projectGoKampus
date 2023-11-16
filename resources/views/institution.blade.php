@@ -15,110 +15,23 @@
     @section('content')
         <div class="container">
             <h1 class="institutionTittle">Institusi</h1>
-            <div class="d-flex cardInstiutionContainer justify-content-between gap-2 gap-md-3 gap-lg-4">
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
+            @foreach($institutions as $institution)
+                <div class="d-flex cardInstiutionContainer justify-content-between gap-2 gap-md-3 gap-lg-4">
+                    <div class="d-flex flex-column cardInstitution">
+                        <div>
+                            <div class="imageContainer">
+                                <img src="{{ asset('images/institution.png') }}" alt="institution">
+                            </div>
+                            <span>{{ $institution->name }}</span>
                         </div>
-                        <span>Digital Marketing</span>
                     </div>
                 </div>
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
-                        </div>
-                        <span>Digital Marketing</span>
-                    </div>
-                </div>
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
-                        </div>
-                        <span>Digital Marketing</span>
-                    </div>
-                </div>
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
-                        </div>
-                        <span>Digital Marketing</span>
-                    </div>
-                </div>
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
-                        </div>
-                        <span>Digital Marketing</span>
-                    </div>
-                </div>
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
-                        </div>
-                        <span>Digital Marketing</span>
-                    </div>
-                </div>
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
-                        </div>
-                        <span>Digital Marketing</span>
-                    </div>
-                </div>
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
-                        </div>
-                        <span>Digital Marketing</span>
-                    </div>
-                </div>
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
-                        </div>
-                        <span>Digital Marketing</span>
-                    </div>
-                </div>
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
-                        </div>
-                        <span>Digital Marketing</span>
-                    </div>
-                </div>
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
-                        </div>
-                        <span>Digital Marketing</span>
-                    </div>
-                </div>
-                <div class="d-flex flex-column cardInstitution">
-                    <div>
-                        <div class="imageContainer">
-                            <img src="{{ asset('images/institution.png') }}" alt="institution">
-                        </div>
-                        <span>Digital Marketing</span>
-                    </div>
-                </div>
-            </div>
+            @endforeach
             <div class="mt-5">
                 <img src="{{ asset('images/bannerMaxy.png') }}" alt="bannerMaxy" style="width: 100%">
             </div>
         </div>
     @endsection
-
 </body>
 
 </html>

@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="card d-flex flex-column justify-center align-items-center" id="cardPartner">
+    <div class="card d-flex flex-column justify-center align-items-center text-center" id="cardPartner">
         <div><img src="{{ $image }}" alt="{{ $image }}" class="institutionImage"></div>
         <p>{{ $text }}</p>
     </div>

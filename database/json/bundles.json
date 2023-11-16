@@ -1,0 +1,186 @@
+{
+    "data": [
+        {
+            "title": "Digital Marketing 101",
+            "slug": "digital-marketing-101",
+            "description": "Kurikulum ini adalah solusi untuk Anda yang ingin memulai belajar digital marketing. Kurikulum ini dirancang khusus untuk Anda yang ingin mulai memahami digital marketing secara mudah dan cepat dari 0. Anda akan mempelajari mulai dari dasar hingga membuat kampanye pemasaran yang efektif. Sehingga dapat meningkatkan penjualan dan keuntungan bisnis. Apapun bidang bisnis Anda, kelas digital marketing ini akan membantu Anda menguasai keterampilan penting yang diperlukan untuk sukses di era digital ini.",
+            "cover_url": "https://s.gokampus.com/bundle-cover/lK6MKQ8rMkQVWrTuUcWZdKwi08c7uK4e1IpPXFbJ.png",
+            "benefits": [
+                {
+                    "desc": "Potongan harga sertifikat lebih murah 15%",
+                    "title": "Spesial Diskon"
+                },
+                {
+                    "desc": "Dapat kemudahan guideline alur belajar untuk membantu mu menguasai topik yang ingin kamu kuasai",
+                    "title": "Guideline Belajar"
+                },
+                {
+                    "desc": "Dapat tambahan new sertifikat bundling resmi dari Gokampus",
+                    "title": "New Sertifikat"
+                },
+                {
+                    "desc": "One session karier mentoring, untuk membantu mempercepat akselerasi kariermu. Dengan waktu yang kamu bisa pilih",
+                    "title": "Mentoring"
+                }
+            ],
+            "features": [
+                "Memahami apa channel-channel modern 'Digital Marketing' dan bagaimana cara kerjanya untuk meningkatkan keuntungan",
+                "Membangun Strategi dan konten Digital Marketing yang baik",
+                "Mampu melakukan Riset digital marketing",
+                "Membuat target traffic dan segmentasi audiens",
+                "Mampu memahami dan menganalisa data campaign marketing"
+            ],
+            "discount": 15,
+            "certificate_sample_image": "https://s.gokampus.com/bundle-certificate/B9bMXxMNgiJzwRG2H9VkHUcUNdscto6u6yX25sh7.png",
+            "first_course_slug": "dasar-digital-marketing",
+            "first_course_name": "Dasar Digital Marketing",
+            "institutions": [
+                {
+                    "name": "GoKampus",
+                    "slug": "gokampus",
+                    "image_url": "https://s.gokampus.com/provider/19c02189-1336-4c06-a0c8-bdd2b60220ad.png"
+                },
+                {
+                    "name": "Glints",
+                    "slug": "glints",
+                    "image_url": "https://s.gokampus.com/course-institutions/2dxvbySxR7UsHzd6q615zgZmwfeqHR2d5NBr2seP.png"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Dasar Digital Marketing",
+                    "slug": "dasar-digital-marketing",
+                    "image_url": "",
+                    "total_learners": 393
+                },
+                {
+                    "name": "Membangun Digital Marketing Campaign Yang Paling Efektif",
+                    "slug": "membangun-digital-marketing-campaign-yang-paling-efektif",
+                    "image_url": "",
+                    "total_learners": 399
+                },
+                {
+                    "name": "Mengenal Karir Sebagai Content Marketer",
+                    "slug": "mengenal-karir-sebagai-content-marketer",
+                    "image_url": "",
+                    "total_learners": 487
+                }
+            ],
+            "total_learners_bundle": 1279
+        },
+        {
+            "title": "Sukses dengan Kreativitas dan Growth Mindset",
+            "slug": "sukses-dengan-kreativitas-dan-growth-mindset",
+            "description": "Apakah Anda ingin mencapai kesuksesan dalam hidup Anda? Kunci untuk meraih sukses bukan hanya terletak pada kemampuan dan keahlian saja, tetapi juga pada cara berpikir Anda. Kurikulum ini hadir, untuk mengantarkan Anda memahami bagaimana membangun mindset yang kuat dan kreatif, sehingga dapat meraih kesuksesan dengan lebih mudah dan efektif. Menang diantara pesaing-pesain Anda. Bersiaplah untuk mengasah keterampilan berpikir dan kreatifitas Anda, dan sambutlah diri Anda untuk menjadi pribadi yang sukses.",
+            "cover_url": "https://s.gokampus.com/bundle-cover/aQcvxvdIN032c0hnXgHM5LNmIiL0BJTalmxEcd48.png",
+            "benefits": [
+                {
+                    "desc": "Potongan harga sertifikat lebih murah 15%",
+                    "title": "Spesial Diskon"
+                },
+                {
+                    "desc": "Dapat kemudahan guideline alur belajar untuk membantu mu menguasai topik yang ingin kamu kuasai",
+                    "title": "Guideline Belajar"
+                },
+                {
+                    "desc": "Dapat tambahan new sertifikat bundling resmi dari Gokampus",
+                    "title": "New Sertifikat:"
+                },
+                {
+                    "desc": "One session karier mentoring, untuk membantu mempercepat akselerasi kariermu. Dengan waktu yang kamu bisa pilih!",
+                    "title": "Mentoring"
+                }
+            ],
+            "features": [
+                "Anda memiliki problem solving mindset yang baik untuk bisa mengatasi berbagai masalah",
+                "Anda mengetahui pola pikir yang adaptable dengan perkembangan zaman",
+                "Anda mengetahui contoh-contoh growth productivity framework yang digunakan di perusahaan modern sekarang. 'Agile and Scrum'"
+            ],
+            "discount": 15,
+            "certificate_sample_image": "https://s.gokampus.com/bundle-certificate/PxgZaMv5aSPQiAzDonQWecgMC1gCvtKU5lX5ohos.png",
+            "first_course_slug": "agile-and-growth-mindset",
+            "first_course_name": "Agile and Growth Mindset",
+            "institutions": [
+                {
+                    "name": "DECON",
+                    "slug": "decon",
+                    "image_url": "https://s.gokampus.com/course-institutions/rMkmghdn7ls7kvgeLrln62oZghtuLgk5m01H7H49.png"
+                },
+                {
+                    "name": "James Gwee Success Center",
+                    "slug": "james-gwee-success-center",
+                    "image_url": "https://s.gokampus.com/course-institutions/Fea14Pf04sLxrMMJX4WeIMuygtN2Q1J5xi4Zmc2f.png"
+                },
+                {
+                    "name": "Mindtera",
+                    "slug": "mindtera",
+                    "image_url": "https://s.gokampus.com/course-institutions/tCpfhoqLExfpD2O92XRxTj35MWEC6RZNENoFHpeo.png"
+                },
+                {
+                    "name": "GoKampus",
+                    "slug": "gokampus",
+                    "image_url": "https://s.gokampus.com/provider/19c02189-1336-4c06-a0c8-bdd2b60220ad.png"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Agile and Growth Mindset",
+                    "slug": "agile-and-growth-mindset",
+                    "image_url": "",
+                    "total_learners": 1370
+                },
+                {
+                    "name": "Ingin Cara Keluar Dari Segala Masalah?",
+                    "slug": "ingin-cara-keluar-dari-segala-masalah",
+                    "image_url": "",
+                    "total_learners": 711
+                },
+                {
+                    "name": "Berkarya lewat Creative Thinking",
+                    "slug": "berkarya-lewat-creative-thinking",
+                    "image_url": "",
+                    "total_learners": 52408
+                },
+                {
+                    "name": "Agile Essential: Mempercepat Adaptasi dengan SCRUM",
+                    "slug": "agile-essential-mempercepat-adaptasi-dengan-scrum",
+                    "image_url": "",
+                    "total_learners": 346
+                }
+            ],
+            "total_learners_bundle": 54835
+        }
+    ],
+    "links": {
+        "first": "https://www.gokampus.com/bundles?page=1",
+        "last": "https://www.gokampus.com/bundles?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Sebelumnya",
+                "active": false
+            },
+            {
+                "url": "https://www.gokampus.com/bundles?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": null,
+                "label": "Selanjutnya &raquo;",
+                "active": false
+            }
+        ],
+        "path": "https://www.gokampus.com/bundles",
+        "per_page": 10,
+        "to": 2,
+        "total": 2
+    }
+}

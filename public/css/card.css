@@ -28,10 +28,8 @@
 }
 
 #card .profileCard {
-    width: 31px;
-    height: 31px;
-    background-color: #beb9b9;
-    border-radius: 50%;
+    width: 32px;
+    height: 32px;
 }
 
 #card .profileNameCard {

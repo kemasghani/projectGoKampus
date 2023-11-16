@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "slug": "it-tech",
+            "name": "IT & Tech",
+            "description": "IT & Tech",
+            "image_url": "https://s.gokampus.com/course-categories/1laED0ojp4CO9oQqRiFr7Q3FKlGwF8iN8e9891RN.png"
+        },
+        {
+            "slug": "business-entrepreneurship-2",
+            "name": "Business & Entrepreneurship",
+            "description": "Business & Entrepreneurship",
+            "image_url": "https://s.gokampus.com/course-categories/WvMsniVY7XHQgyyYnXkLiuzgO3w6ZOcwN51zmHLx.png"
+        },
+        {
+            "slug": "product-project-management",
+            "name": "Product & Project Management",
+            "description": "Product & Project Management",
+            "image_url": "https://s.gokampus.com/course-categories/LwUgFfCj7HduiXxkwgryAYGLfB50ywQLSlIfPGv8.png"
+        },
+        {
+            "slug": "creative-design",
+            "name": "Creative & Design",
+            "description": "Creative & Design",
+            "image_url": "https://s.gokampus.com/course-categories/iC2AxIgkvRCRlG9oWfDIBQf8fXMlSxKUzAgqnatL.png"
+        },
+        {
+            "slug": "personal-development",
+            "name": "Personal Development",
+            "description": "Personal Development",
+            "image_url": "https://s.gokampus.com/course-categories/qNyUHVyywz8m96fwsB3fAZyX8lu2DqI0HLVLha3n.png"
+        },
+        {
+            "slug": "operations-management",
+            "name": "Operations & Management",
+            "description": "Operations & Management",
+            "image_url": "https://s.gokampus.com/course-categories/qOesBYjlIEBiJV5omhUpulbIbnGHBOLz1SOTdBA5.png"
+        },
+        {
+            "slug": "sales-marketing",
+            "name": "Sales & Marketing",
+            "description": "Sales & Marketing",
+            "image_url": "https://s.gokampus.com/course-categories/vrUBqZ5dZT6wuRTvug3ZPpFDz9QwAHRghdlf6h4d.png"
+        },
+        {
+            "slug": "economics-finance",
+            "name": "Economics & Finance",
+            "description": "Economics & Finance",
+            "image_url": "https://s.gokampus.com/course-categories/outyhA6cT4zQ88qPiWRA3TG6jCu3oWGowbJn5HfG.png"
+        }
+    ]
+}

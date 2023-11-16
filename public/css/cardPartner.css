@@ -4,7 +4,17 @@
     border-radius: 12px;
 }
 
+@media (min-width: 768px) {
+    .institutionImage {
+        width: 75px;
+        height: 75px;
+    }
 
+    #cardPartner {
+        width: 180px;
+        height: 180px;
+    }
+}
 
 @media only screen and (max-width: 610px) {
     .institutionImage {
@@ -18,6 +28,7 @@
         font-weight: 500;
     }
 }
+
 @media only screen and (max-width: 500px) {
     .institutionImage {
         width: 29px;
